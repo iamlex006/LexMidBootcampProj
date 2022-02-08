@@ -1,0 +1,141 @@
+answer,CountryCode,SUM(response)
+A few,Austria,2398.0
+A few,Belgium,2110.0
+A few,Bulgaria,1240.0
+A few,Croatia,1428.0
+A few,Cyprus,272.0
+A few,Czech_Republic,2668.0
+A few,Denmark,967.0
+A few,Estonia,393.0
+A few,Finland,3053.0
+A few,France,7535.0
+A few,Germany,17624.0
+A few,Greece,3463.0
+A few,Hungary,2818.0
+A few,Ireland,1329.0
+A few,Italy,13723.0
+A few,Latvia,661.0
+A few,Lithuania,1065.0
+A few,Luxembourg,279.0
+A few,Malta,326.0
+A few,Netherlands,1686.0
+A few,Poland,3563.0
+A few,Portugal,2675.0
+A few,Romania,1557.0
+A few,Slovakia,1338.0
+A few,Slovenia,720.0
+A few,Spain,6455.0
+A few,Sweden,1838.0
+A few,United_Kingdom,5480.0
+All,Austria,3125.0
+All,Belgium,4716.0
+All,Bulgaria,481.0
+All,Croatia,558.0
+All,Cyprus,92.0
+All,Czech_Republic,2363.0
+All,Denmark,3114.0
+All,Estonia,188.0
+All,Finland,3464.0
+All,France,10766.0
+All,Germany,28142.0
+All,Greece,1288.0
+All,Hungary,1347.0
+All,Ireland,2372.0
+All,Italy,11030.0
+All,Latvia,244.0
+All,Lithuania,302.0
+All,Luxembourg,406.0
+All,Malta,361.0
+All,Netherlands,6956.0
+All,Poland,1488.0
+All,Portugal,1259.0
+All,Romania,370.0
+All,Slovakia,550.0
+All,Slovenia,484.0
+All,Spain,7667.0
+All,Sweden,3214.0
+All,United_Kingdom,9484.0
+Don`t know,Austria,440.0
+Don`t know,Belgium,434.0
+Don`t know,Bulgaria,334.0
+Don`t know,Croatia,243.0
+Don`t know,Cyprus,42.0
+Don`t know,Czech_Republic,469.0
+Don`t know,Denmark,265.0
+Don`t know,Estonia,94.0
+Don`t know,Finland,1022.0
+Don`t know,France,1566.0
+Don`t know,Germany,2868.0
+Don`t know,Greece,544.0
+Don`t know,Hungary,411.0
+Don`t know,Ireland,253.0
+Don`t know,Italy,2642.0
+Don`t know,Latvia,131.0
+Don`t know,Lithuania,197.0
+Don`t know,Luxembourg,48.0
+Don`t know,Malta,47.0
+Don`t know,Netherlands,414.0
+Don`t know,Poland,722.0
+Don`t know,Portugal,348.0
+Don`t know,Romania,276.0
+Don`t know,Slovakia,201.0
+Don`t know,Slovenia,114.0
+Don`t know,Spain,1149.0
+Don`t know,Sweden,523.0
+Don`t know,United_Kingdom,1122.0
+Most,Austria,2370.0
+Most,Belgium,2711.0
+Most,Bulgaria,713.0
+Most,Croatia,857.0
+Most,Cyprus,144.0
+Most,Czech_Republic,2414.0
+Most,Denmark,1545.0
+Most,Estonia,348.0
+Most,Finland,3110.0
+Most,France,7471.0
+Most,Germany,18537.0
+Most,Greece,1736.0
+Most,Hungary,1645.0
+Most,Ireland,1402.0
+Most,Italy,12935.0
+Most,Latvia,360.0
+Most,Lithuania,534.0
+Most,Luxembourg,271.0
+Most,Malta,311.0
+Most,Netherlands,2416.0
+Most,Poland,1983.0
+Most,Portugal,1970.0
+Most,Romania,582.0
+Most,Slovakia,808.0
+Most,Slovenia,531.0
+Most,Spain,5808.0
+Most,Sweden,2187.0
+Most,United_Kingdom,6534.0
+None,Austria,1841.0
+None,Belgium,1603.0
+None,Bulgaria,1369.0
+None,Croatia,1707.0
+None,Cyprus,267.0
+None,Czech_Republic,1969.0
+None,Denmark,940.0
+None,Estonia,377.0
+None,Finland,3160.0
+None,France,6260.0
+None,Germany,13940.0
+None,Greece,3993.0
+None,Hungary,2856.0
+None,Ireland,1136.0
+None,Italy,12673.0
+None,Latvia,611.0
+None,Lithuania,1186.0
+None,Luxembourg,208.0
+None,Malta,245.0
+None,Netherlands,1255.0
+None,Poland,3389.0
+None,Portugal,2232.0
+None,Romania,2240.0
+None,Slovakia,1114.0
+None,Slovenia,578.0
+None,Spain,4535.0
+None,Sweden,2098.0
+None,United_Kingdom,4390.0

@@ -1,0 +1,31 @@
+,question_code,question_label,answer,SUM(response),percent_all
+276,c4_a,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a job? *",Yes,11474.0,12.33
+277,c4_a,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a job? *",No,75575.0,81.19
+278,c4_a,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a job? *",Don`t know,5510.0,5.92
+279,c4_b,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at work?",Yes,17296.0,18.58
+280,c4_b,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at work?",No,71266.0,76.57
+281,c4_b,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at work?",Don`t know,4464.0,4.8
+282,c4_c,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a house or apartment to rent or buy?",Yes,11239.0,12.07
+283,c4_c,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a house or apartment to rent or buy?",No,77139.0,82.87
+284,c4_c,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a house or apartment to rent or buy?",Don`t know,4126.0,4.43
+285,c4_d,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by healthcare personnel (eg a receptionist, nurse or doctor)?",Yes,9022.0,9.69
+286,c4_d,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by healthcare personnel (eg a receptionist, nurse or doctor)?",No,80822.0,86.83
+287,c4_d,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by healthcare personnel (eg a receptionist, nurse or doctor)?",Don`t know,3195.0,3.43
+288,c4_e,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by social service personnel?",Yes,7075.0,7.6
+289,c4_e,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by social service personnel?",No,81298.0,87.34
+290,c4_e,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by social service personnel?",Don`t know,3990.0,4.29
+291,c4_f,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by school / university personnel?",Yes,15278.0,16.41
+292,c4_f,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by school / university personnel?",No,73688.0,79.17
+293,c4_f,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by school / university personnel?",Don`t know,3605.0,3.87
+297,c4_h,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a shop?",Yes,7270.0,7.81
+298,c4_h,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a shop?",No,82697.0,88.85
+299,c4_h,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a shop?",Don`t know,2956.0,3.18
+300,c4_i,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T in a bank or insurance company (by bank or company personnel)?",Yes,3497.0,3.76
+301,c4_i,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T in a bank or insurance company (by bank or company personnel)?",No,86273.0,92.69
+302,c4_i,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T in a bank or insurance company (by bank or company personnel)?",Don`t know,3016.0,3.24
+303,c4_j,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a sport or fitness club?",Yes,9100.0,9.78
+304,c4_j,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a sport or fitness club?",No,80304.0,86.28
+305,c4_j,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a sport or fitness club?",Don`t know,3289.0,3.53
+306,c4_k,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when showing your ID or any official document that identifies your sex?",Yes,3664.0,3.94
+307,c4_k,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when showing your ID or any official document that identifies your sex?",No,86188.0,92.6
+308,c4_k,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when showing your ID or any official document that identifies your sex?",Don`t know,2783.0,2.99

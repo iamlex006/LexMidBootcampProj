@@ -1,0 +1,175 @@
+,CountryCode,variable,value,country_subset
+0,EU_Total,N,93079,EU_Total N
+1,Austria,N,2543,Austria N
+2,Belgium,N,2901,Belgium N
+3,Bulgaria,N,1033,Bulgaria N
+4,Cyprus,N,265,Cyprus N
+5,Czech_Republic,N,2469,Czech_Republic N
+6,Germany,N,20271,Germany N
+7,Denmark,N,1710,Denmark N
+8,Estonia,N,374,Estonia N
+9,Greece,N,2760,Greece N
+10,Spain,N,6388,Spain N
+11,Finland,N,3439,Finland N
+12,France,N,8375,France N
+13,Hungary,N,2267,Hungary N
+14,Ireland,N,1625,Ireland N
+15,Italy,N,13255,Italy N
+16,Lithuania,N,821,Lithuania N
+17,Luxembourg,N,318,Luxembourg N
+18,Latvia,N,501,Latvia N
+19,Malta,N,358,Malta N
+20,Netherlands,N,3175,Netherlands N
+21,Poland,N,2790,Poland N
+22,Portugal,N,2125,Portugal N
+23,Romania,N,1260,Romania N
+24,Sweden,N,2464,Sweden N
+25,Slovenia,N,636,Slovenia N
+26,Slovakia,N,1000,Slovakia N
+27,United_Kingdom,N,6759,United_Kingdom N
+28,Croatia,N,1197,Croatia N
+29,EU_Total,Lesbian,15236,EU_Total Lesbian
+30,Austria,Lesbian,437,Austria Lesbian
+31,Belgium,Lesbian,424,Belgium Lesbian
+32,Bulgaria,Lesbian,226,Bulgaria Lesbian
+33,Cyprus,Lesbian,41,Cyprus Lesbian
+34,Czech_Republic,Lesbian,565,Czech_Republic Lesbian
+35,Germany,Lesbian,2445,Germany Lesbian
+36,Denmark,Lesbian,393,Denmark Lesbian
+37,Estonia,Lesbian,99,Estonia Lesbian
+38,Greece,Lesbian,399,Greece Lesbian
+39,Spain,Lesbian,897,Spain Lesbian
+40,Finland,Lesbian,820,Finland Lesbian
+41,France,Lesbian,1302,France Lesbian
+42,Hungary,Lesbian,307,Hungary Lesbian
+43,Ireland,Lesbian,423,Ireland Lesbian
+44,Italy,Lesbian,2136,Italy Lesbian
+45,Lithuania,Lesbian,177,Lithuania Lesbian
+46,Luxembourg,Lesbian,51,Luxembourg Lesbian
+47,Latvia,Lesbian,150,Latvia Lesbian
+48,Malta,Lesbian,109,Malta Lesbian
+49,Netherlands,Lesbian,614,Netherlands Lesbian
+50,Poland,Lesbian,375,Poland Lesbian
+51,Portugal,Lesbian,456,Portugal Lesbian
+52,Romania,Lesbian,139,Romania Lesbian
+53,Sweden,Lesbian,427,Sweden Lesbian
+54,Slovenia,Lesbian,160,Slovenia Lesbian
+55,Slovakia,Lesbian,144,Slovakia Lesbian
+56,United_Kingdom,Lesbian,1285,United_Kingdom Lesbian
+57,Croatia,Lesbian,235,Croatia Lesbian
+58,EU_Total,Gay,57448,EU_Total Gay
+59,Austria,Gay,1558,Austria Gay
+60,Belgium,Gay,1998,Belgium Gay
+61,Bulgaria,Gay,474,Bulgaria Gay
+62,Cyprus,Gay,164,Cyprus Gay
+63,Czech_Republic,Gay,1432,Czech_Republic Gay
+64,Germany,Gay,13907,Germany Gay
+65,Denmark,Gay,930,Denmark Gay
+66,Estonia,Gay,170,Estonia Gay
+67,Greece,Gay,1590,Greece Gay
+68,Spain,Gay,4409,Spain Gay
+69,Finland,Gay,1192,Finland Gay
+70,France,Gay,5720,France Gay
+71,Hungary,Gay,1455,Hungary Gay
+72,Ireland,Gay,864,Ireland Gay
+73,Italy,Gay,8668,Italy Gay
+74,Lithuania,Gay,439,Lithuania Gay
+75,Luxembourg,Gay,187,Luxembourg Gay
+76,Latvia,Gay,200,Latvia Gay
+77,Malta,Gay,173,Malta Gay
+78,Netherlands,Gay,1937,Netherlands Gay
+79,Poland,Gay,1754,Poland Gay
+80,Portugal,Gay,1168,Portugal Gay
+81,Romania,Gay,690,Romania Gay
+82,Sweden,Gay,1053,Sweden Gay
+83,Slovenia,Gay,345,Slovenia Gay
+84,Slovakia,Gay,584,Slovakia Gay
+85,United_Kingdom,Gay,3795,United_Kingdom Gay
+86,Croatia,Gay,592,Croatia Gay
+87,EU_Total,Bisexual women,6424,EU_Total Bisexual women
+88,Austria,Bisexual women,164,Austria Bisexual women
+89,Belgium,Bisexual women,132,Belgium Bisexual women
+90,Bulgaria,Bisexual women,139,Bulgaria Bisexual women
+91,Cyprus,Bisexual women,18,Cyprus Bisexual women
+92,Czech_Republic,Bisexual women,163,Czech_Republic Bisexual women
+93,Germany,Bisexual women,590,Germany Bisexual women
+94,Denmark,Bisexual women,136,Denmark Bisexual women
+95,Estonia,Bisexual women,61,Estonia Bisexual women
+96,Greece,Bisexual women,219,Greece Bisexual women
+97,Spain,Bisexual women,354,Spain Bisexual women
+98,Finland,Bisexual women,756,Finland Bisexual women
+99,France,Bisexual women,326,France Bisexual women
+100,Hungary,Bisexual women,135,Hungary Bisexual women
+101,Ireland,Bisexual women,141,Ireland Bisexual women
+102,Italy,Bisexual women,805,Italy Bisexual women
+103,Lithuania,Bisexual women,100,Lithuania Bisexual women
+104,Luxembourg,Bisexual women,16,Luxembourg Bisexual women
+105,Latvia,Bisexual women,83,Latvia Bisexual women
+106,Malta,Bisexual women,40,Malta Bisexual women
+107,Netherlands,Bisexual women,214,Netherlands Bisexual women
+108,Poland,Bisexual women,264,Poland Bisexual women
+109,Portugal,Bisexual women,268,Portugal Bisexual women
+110,Romania,Bisexual women,70,Romania Bisexual women
+111,Sweden,Bisexual women,341,Sweden Bisexual women
+112,Slovenia,Bisexual women,64,Slovenia Bisexual women
+113,Slovakia,Bisexual women,96,Slovakia Bisexual women
+114,United_Kingdom,Bisexual women,572,United_Kingdom Bisexual women
+115,Croatia,Bisexual women,157,Croatia Bisexual women
+116,EU_Total,Bisexual men,7200,EU_Total Bisexual men
+117,Austria,Bisexual men,217,Austria Bisexual men
+118,Belgium,Bisexual men,182,Belgium Bisexual men
+119,Bulgaria,Bisexual men,88,Bulgaria Bisexual men
+120,Cyprus,Bisexual men,17,Cyprus Bisexual men
+121,Czech_Republic,Bisexual men,139,Czech_Republic Bisexual men
+122,Germany,Bisexual men,2000,Germany Bisexual men
+123,Denmark,Bisexual men,108,Denmark Bisexual men
+124,Estonia,Bisexual men,20,Estonia Bisexual men
+125,Greece,Bisexual men,288,Greece Bisexual men
+126,Spain,Bisexual men,514,Spain Bisexual men
+127,Finland,Bisexual men,190,Finland Bisexual men
+128,France,Bisexual men,592,France Bisexual men
+129,Hungary,Bisexual men,236,Hungary Bisexual men
+130,Ireland,Bisexual men,58,Ireland Bisexual men
+131,Italy,Bisexual men,996,Italy Bisexual men
+132,Lithuania,Bisexual men,65,Lithuania Bisexual men
+133,Luxembourg,Bisexual men,26,Luxembourg Bisexual men
+134,Latvia,Bisexual men,22,Latvia Bisexual men
+135,Malta,Bisexual men,18,Malta Bisexual men
+136,Netherlands,Bisexual men,159,Netherlands Bisexual men
+137,Poland,Bisexual men,138,Poland Bisexual men
+138,Portugal,Bisexual men,146,Portugal Bisexual men
+139,Romania,Bisexual men,214,Romania Bisexual men
+140,Sweden,Bisexual men,269,Sweden Bisexual men
+141,Slovenia,Bisexual men,38,Slovenia Bisexual men
+142,Slovakia,Bisexual men,61,Slovakia Bisexual men
+143,United_Kingdom,Bisexual men,294,United_Kingdom Bisexual men
+144,Croatia,Bisexual men,105,Croatia Bisexual men
+145,EU_Total,Transgender,6771,EU_Total Transgender
+146,Austria,Transgender,167,Austria Transgender
+147,Belgium,Transgender,165,Belgium Transgender
+148,Bulgaria,Transgender,106,Bulgaria Transgender
+149,Cyprus,Transgender,25,Cyprus Transgender
+150,Czech_Republic,Transgender,170,Czech_Republic Transgender
+151,Germany,Transgender,1329,Germany Transgender
+152,Denmark,Transgender,143,Denmark Transgender
+153,Estonia,Transgender,24,Estonia Transgender
+154,Greece,Transgender,264,Greece Transgender
+155,Spain,Transgender,214,Spain Transgender
+156,Finland,Transgender,481,Finland Transgender
+157,France,Transgender,435,France Transgender
+158,Hungary,Transgender,134,Hungary Transgender
+159,Ireland,Transgender,139,Ireland Transgender
+160,Italy,Transgender,650,Italy Transgender
+161,Lithuania,Transgender,40,Lithuania Transgender
+162,Luxembourg,Transgender,38,Luxembourg Transgender
+163,Latvia,Transgender,46,Latvia Transgender
+164,Malta,Transgender,18,Malta Transgender
+165,Netherlands,Transgender,251,Netherlands Transgender
+166,Poland,Transgender,259,Poland Transgender
+167,Portugal,Transgender,87,Portugal Transgender
+168,Romania,Transgender,147,Romania Transgender
+169,Sweden,Transgender,374,Sweden Transgender
+170,Slovenia,Transgender,29,Slovenia Transgender
+171,Slovakia,Transgender,115,Slovakia Transgender
+172,United_Kingdom,Transgender,813,United_Kingdom Transgender
+173,Croatia,Transgender,108,Croatia Transgender
