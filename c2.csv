@@ -1,16 +1,364 @@
-,question_code,question_label,answer,SUM(response),percent_all
-258,c2a_a,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Lesbian?",Yes,2169.0,2.33
-259,c2a_a,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Lesbian?",No,4081.0,4.38
-260,c2a_a,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Lesbian?",Don`t know,419.0,0.45
-261,c2a_b,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Gay?",Yes,2584.0,2.78
-262,c2a_b,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Gay?",No,3658.0,3.93
-263,c2a_b,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Gay?",Don`t know,384.0,0.41
-264,c2a_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Bisexual?",Yes,1361.0,1.46
-265,c2a_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Bisexual?",No,4699.0,5.05
-266,c2a_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Bisexual?",Don`t know,582.0,0.63
-267,c2a_d,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Transgender?",Yes,3225.0,3.46
-268,c2a_d,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Transgender?",No,2951.0,3.17
-269,c2a_d,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Transgender?",Don`t know,511.0,0.55
-273,c2_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed on the grounds of sexual orientation?",Yes,42095.0,45.23
-274,c2_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed on the grounds of sexual orientation?",No,48752.0,52.38
-275,c2_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed on the grounds of sexual orientation?",Don`t know,2193.0,2.36
+,CountryCode,question_code,question_label,answer,SUM(response),percent_all
+7096,Austria,c2a_a,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Lesbian?",Yes,60.0,0.06
+7097,Austria,c2a_a,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Lesbian?",No,97.0,0.1
+7098,Austria,c2a_a,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Lesbian?",Don`t know,10.0,0.01
+7099,Belgium,c2a_a,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Lesbian?",Yes,50.0,0.05
+7100,Belgium,c2a_a,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Lesbian?",No,101.0,0.11
+7101,Belgium,c2a_a,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Lesbian?",Don`t know,15.0,0.02
+7102,Bulgaria,c2a_a,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Lesbian?",Yes,35.0,0.04
+7103,Bulgaria,c2a_a,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Lesbian?",No,64.0,0.07
+7104,Bulgaria,c2a_a,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Lesbian?",Don`t know,6.0,0.01
+7105,Czech_Republic,c2a_a,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Lesbian?",Yes,66.0,0.07
+7106,Czech_Republic,c2a_a,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Lesbian?",No,99.0,0.11
+7107,Czech_Republic,c2a_a,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Lesbian?",Don`t know,5.0,0.01
+7108,Germany,c2a_a,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Lesbian?",Yes,412.0,0.44
+7109,Germany,c2a_a,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Lesbian?",No,837.0,0.9
+7110,Germany,c2a_a,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Lesbian?",Don`t know,93.0,0.1
+7111,Denmark,c2a_a,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Lesbian?",Yes,27.0,0.03
+7112,Denmark,c2a_a,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Lesbian?",No,112.0,0.12
+7113,Denmark,c2a_a,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Lesbian?",Don`t know,4.0,0.0
+7114,Greece,c2a_a,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Lesbian?",Yes,103.0,0.11
+7115,Greece,c2a_a,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Lesbian?",No,153.0,0.16
+7116,Greece,c2a_a,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Lesbian?",Don`t know,11.0,0.01
+7117,Spain,c2a_a,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Lesbian?",Yes,94.0,0.1
+7118,Spain,c2a_a,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Lesbian?",No,116.0,0.12
+7119,Spain,c2a_a,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Lesbian?",Don`t know,4.0,0.0
+7120,Finland,c2a_a,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Lesbian?",Yes,183.0,0.2
+7121,Finland,c2a_a,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Lesbian?",No,265.0,0.28
+7122,Finland,c2a_a,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Lesbian?",Don`t know,38.0,0.04
+7123,France,c2a_a,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Lesbian?",Yes,126.0,0.14
+7124,France,c2a_a,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Lesbian?",No,278.0,0.3
+7125,France,c2a_a,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Lesbian?",Don`t know,30.0,0.03
+7126,Croatia,c2a_a,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Lesbian?",Yes,49.0,0.05
+7127,Croatia,c2a_a,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Lesbian?",No,55.0,0.06
+7128,Croatia,c2a_a,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Lesbian?",Don`t know,4.0,0.0
+7129,Hungary,c2a_a,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Lesbian?",Yes,32.0,0.03
+7130,Hungary,c2a_a,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Lesbian?",No,99.0,0.11
+7131,Hungary,c2a_a,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Lesbian?",Don`t know,4.0,0.0
+7132,Ireland,c2a_a,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Lesbian?",Yes,54.0,0.06
+7133,Ireland,c2a_a,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Lesbian?",No,79.0,0.08
+7134,Ireland,c2a_a,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Lesbian?",Don`t know,6.0,0.01
+7135,Italy,c2a_a,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Lesbian?",Yes,234.0,0.25
+7136,Italy,c2a_a,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Lesbian?",No,377.0,0.41
+7137,Italy,c2a_a,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Lesbian?",Don`t know,39.0,0.04
+7138,Lithuania,c2a_a,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Lesbian?",Yes,12.0,0.01
+7139,Lithuania,c2a_a,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Lesbian?",No,24.0,0.03
+7140,Lithuania,c2a_a,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Lesbian?",Don`t know,4.0,0.0
+7141,Latvia,c2a_a,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Lesbian?",Yes,15.0,0.02
+7142,Latvia,c2a_a,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Lesbian?",No,26.0,0.03
+7143,Latvia,c2a_a,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Lesbian?",Don`t know,5.0,0.01
+7144,Netherlands,c2a_a,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Lesbian?",Yes,58.0,0.06
+7145,Netherlands,c2a_a,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Lesbian?",No,173.0,0.19
+7146,Netherlands,c2a_a,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Lesbian?",Don`t know,18.0,0.02
+7147,Poland,c2a_a,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Lesbian?",Yes,114.0,0.12
+7148,Poland,c2a_a,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Lesbian?",No,130.0,0.14
+7149,Poland,c2a_a,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Lesbian?",Don`t know,18.0,0.02
+7150,Portugal,c2a_a,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Lesbian?",Yes,41.0,0.04
+7151,Portugal,c2a_a,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Lesbian?",No,44.0,0.05
+7152,Portugal,c2a_a,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Lesbian?",Don`t know,3.0,0.0
+7153,Romania,c2a_a,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Lesbian?",Yes,40.0,0.04
+7154,Romania,c2a_a,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Lesbian?",No,100.0,0.11
+7155,Romania,c2a_a,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Lesbian?",Don`t know,7.0,0.01
+7156,Sweden,c2a_a,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Lesbian?",Yes,90.0,0.1
+7157,Sweden,c2a_a,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Lesbian?",No,254.0,0.27
+7158,Sweden,c2a_a,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Lesbian?",Don`t know,30.0,0.03
+7159,Slovakia,c2a_a,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Lesbian?",Yes,38.0,0.04
+7160,Slovakia,c2a_a,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Lesbian?",No,61.0,0.07
+7161,Slovakia,c2a_a,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Lesbian?",Don`t know,16.0,0.02
+7162,United_Kingdom,c2a_a,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Lesbian?",Yes,236.0,0.25
+7163,United_Kingdom,c2a_a,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Lesbian?",No,537.0,0.58
+7164,United_Kingdom,c2a_a,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Lesbian?",Don`t know,49.0,0.05
+7165,Austria,c2a_b,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Gay?",Yes,57.0,0.06
+7166,Austria,c2a_b,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Gay?",No,99.0,0.11
+7167,Austria,c2a_b,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Gay?",Don`t know,12.0,0.01
+7168,Belgium,c2a_b,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Gay?",Yes,64.0,0.07
+7169,Belgium,c2a_b,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Gay?",No,89.0,0.1
+7170,Belgium,c2a_b,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Gay?",Don`t know,12.0,0.01
+7171,Bulgaria,c2a_b,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Gay?",Yes,51.0,0.05
+7172,Bulgaria,c2a_b,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Gay?",No,50.0,0.05
+7173,Bulgaria,c2a_b,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Gay?",Don`t know,5.0,0.01
+7174,Czech_Republic,c2a_b,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Gay?",Yes,58.0,0.06
+7175,Czech_Republic,c2a_b,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Gay?",No,104.0,0.11
+7176,Czech_Republic,c2a_b,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Gay?",Don`t know,8.0,0.01
+7177,Germany,c2a_b,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Gay?",Yes,518.0,0.56
+7178,Germany,c2a_b,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Gay?",No,731.0,0.79
+7179,Germany,c2a_b,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Gay?",Don`t know,80.0,0.09
+7180,Denmark,c2a_b,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Gay?",Yes,33.0,0.04
+7181,Denmark,c2a_b,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Gay?",No,103.0,0.11
+7182,Denmark,c2a_b,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Gay?",Don`t know,7.0,0.01
+7183,Greece,c2a_b,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Gay?",Yes,119.0,0.13
+7184,Greece,c2a_b,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Gay?",No,137.0,0.15
+7185,Greece,c2a_b,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Gay?",Don`t know,8.0,0.01
+7186,Spain,c2a_b,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Gay?",Yes,81.0,0.09
+7187,Spain,c2a_b,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Gay?",No,128.0,0.14
+7188,Spain,c2a_b,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Gay?",Don`t know,4.0,0.0
+7189,Finland,c2a_b,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Gay?",Yes,144.0,0.15
+7190,Finland,c2a_b,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Gay?",No,289.0,0.31
+7191,Finland,c2a_b,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Gay?",Don`t know,48.0,0.05
+7192,France,c2a_b,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Gay?",Yes,178.0,0.19
+7193,France,c2a_b,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Gay?",No,231.0,0.25
+7194,France,c2a_b,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Gay?",Don`t know,26.0,0.03
+7195,Croatia,c2a_b,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Gay?",Yes,52.0,0.06
+7196,Croatia,c2a_b,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Gay?",No,52.0,0.06
+7197,Croatia,c2a_b,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Gay?",Don`t know,5.0,0.01
+7198,Hungary,c2a_b,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Gay?",Yes,60.0,0.06
+7199,Hungary,c2a_b,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Gay?",No,74.0,0.08
+7200,Hungary,c2a_b,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Gay?",Don`t know,0.0,0.0
+7201,Ireland,c2a_b,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Gay?",Yes,71.0,0.08
+7202,Ireland,c2a_b,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Gay?",No,63.0,0.07
+7203,Ireland,c2a_b,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Gay?",Don`t know,6.0,0.01
+7204,Italy,c2a_b,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Gay?",Yes,292.0,0.31
+7205,Italy,c2a_b,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Gay?",No,338.0,0.36
+7206,Italy,c2a_b,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Gay?",Don`t know,26.0,0.03
+7207,Lithuania,c2a_b,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Gay?",Yes,18.0,0.02
+7208,Lithuania,c2a_b,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Gay?",No,14.0,0.02
+7209,Lithuania,c2a_b,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Gay?",Don`t know,8.0,0.01
+7210,Netherlands,c2a_b,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Gay?",Yes,63.0,0.07
+7211,Netherlands,c2a_b,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Gay?",No,176.0,0.19
+7212,Netherlands,c2a_b,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Gay?",Don`t know,13.0,0.01
+7213,Poland,c2a_b,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Gay?",Yes,114.0,0.12
+7214,Poland,c2a_b,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Gay?",No,122.0,0.13
+7215,Poland,c2a_b,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Gay?",Don`t know,23.0,0.02
+7216,Portugal,c2a_b,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Gay?",Yes,43.0,0.05
+7217,Portugal,c2a_b,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Gay?",No,43.0,0.05
+7218,Portugal,c2a_b,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Gay?",Don`t know,3.0,0.0
+7219,Romania,c2a_b,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Gay?",Yes,85.0,0.09
+7220,Romania,c2a_b,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Gay?",No,50.0,0.05
+7221,Romania,c2a_b,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Gay?",Don`t know,10.0,0.01
+7222,Sweden,c2a_b,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Gay?",Yes,116.0,0.12
+7223,Sweden,c2a_b,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Gay?",No,221.0,0.24
+7224,Sweden,c2a_b,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Gay?",Don`t know,34.0,0.04
+7225,Slovenia,c2a_b,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Gay?",Yes,12.0,0.01
+7226,Slovenia,c2a_b,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Gay?",No,16.0,0.02
+7227,Slovenia,c2a_b,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Gay?",Don`t know,1.0,0.0
+7228,Slovakia,c2a_b,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Gay?",Yes,62.0,0.07
+7229,Slovakia,c2a_b,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Gay?",No,40.0,0.04
+7230,Slovakia,c2a_b,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Gay?",Don`t know,12.0,0.01
+7231,United_Kingdom,c2a_b,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Gay?",Yes,293.0,0.31
+7232,United_Kingdom,c2a_b,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Gay?",No,488.0,0.52
+7233,United_Kingdom,c2a_b,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Gay?",Don`t know,33.0,0.04
+7234,Austria,c2a_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Bisexual?",Yes,37.0,0.04
+7235,Austria,c2a_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Bisexual?",No,117.0,0.13
+7236,Austria,c2a_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Bisexual?",Don`t know,15.0,0.02
+7237,Belgium,c2a_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Bisexual?",Yes,23.0,0.02
+7238,Belgium,c2a_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Bisexual?",No,120.0,0.13
+7239,Belgium,c2a_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Bisexual?",Don`t know,23.0,0.02
+7240,Bulgaria,c2a_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Bisexual?",Yes,22.0,0.02
+7241,Bulgaria,c2a_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Bisexual?",No,66.0,0.07
+7242,Bulgaria,c2a_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Bisexual?",Don`t know,17.0,0.02
+7243,Czech_Republic,c2a_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Bisexual?",Yes,36.0,0.04
+7244,Czech_Republic,c2a_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Bisexual?",No,121.0,0.13
+7245,Czech_Republic,c2a_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Bisexual?",Don`t know,14.0,0.02
+7246,Germany,c2a_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Bisexual?",Yes,253.0,0.27
+7247,Germany,c2a_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Bisexual?",No,970.0,1.04
+7248,Germany,c2a_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Bisexual?",Don`t know,106.0,0.11
+7249,Denmark,c2a_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Bisexual?",Yes,19.0,0.02
+7250,Denmark,c2a_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Bisexual?",No,119.0,0.13
+7251,Denmark,c2a_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Bisexual?",Don`t know,6.0,0.01
+7252,Greece,c2a_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Bisexual?",Yes,69.0,0.07
+7253,Greece,c2a_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Bisexual?",No,174.0,0.19
+7254,Greece,c2a_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Bisexual?",Don`t know,21.0,0.02
+7255,Spain,c2a_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Bisexual?",Yes,75.0,0.08
+7256,Spain,c2a_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Bisexual?",No,139.0,0.15
+7257,Spain,c2a_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Bisexual?",Don`t know,0.0,0.0
+7258,Finland,c2a_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Bisexual?",Yes,72.0,0.08
+7259,Finland,c2a_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Bisexual?",No,356.0,0.38
+7260,Finland,c2a_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Bisexual?",Don`t know,53.0,0.06
+7261,France,c2a_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Bisexual?",Yes,78.0,0.08
+7262,France,c2a_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Bisexual?",No,313.0,0.34
+7263,France,c2a_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Bisexual?",Don`t know,44.0,0.05
+7264,Croatia,c2a_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Bisexual?",Yes,33.0,0.04
+7265,Croatia,c2a_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Bisexual?",No,62.0,0.07
+7266,Croatia,c2a_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Bisexual?",Don`t know,12.0,0.01
+7267,Hungary,c2a_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Bisexual?",Yes,17.0,0.02
+7268,Hungary,c2a_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Bisexual?",No,110.0,0.12
+7269,Hungary,c2a_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Bisexual?",Don`t know,8.0,0.01
+7270,Ireland,c2a_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Bisexual?",Yes,33.0,0.04
+7271,Ireland,c2a_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Bisexual?",No,97.0,0.1
+7272,Ireland,c2a_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Bisexual?",Don`t know,8.0,0.01
+7273,Italy,c2a_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Bisexual?",Yes,130.0,0.14
+7274,Italy,c2a_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Bisexual?",No,462.0,0.5
+7275,Italy,c2a_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Bisexual?",Don`t know,58.0,0.06
+7276,Lithuania,c2a_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Bisexual?",Yes,9.0,0.01
+7277,Lithuania,c2a_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Bisexual?",No,24.0,0.03
+7278,Lithuania,c2a_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Bisexual?",Don`t know,8.0,0.01
+7279,Latvia,c2a_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Bisexual?",Yes,11.0,0.01
+7280,Latvia,c2a_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Bisexual?",No,31.0,0.03
+7281,Latvia,c2a_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Bisexual?",Don`t know,4.0,0.0
+7282,Netherlands,c2a_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Bisexual?",Yes,30.0,0.03
+7283,Netherlands,c2a_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Bisexual?",No,193.0,0.21
+7284,Netherlands,c2a_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Bisexual?",Don`t know,28.0,0.03
+7285,Poland,c2a_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Bisexual?",Yes,60.0,0.06
+7286,Poland,c2a_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Bisexual?",No,171.0,0.18
+7287,Poland,c2a_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Bisexual?",Don`t know,28.0,0.03
+7288,Portugal,c2a_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Bisexual?",Yes,19.0,0.02
+7289,Portugal,c2a_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Bisexual?",No,66.0,0.07
+7290,Portugal,c2a_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Bisexual?",Don`t know,3.0,0.0
+7291,Romania,c2a_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Bisexual?",Yes,59.0,0.06
+7292,Romania,c2a_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Bisexual?",No,72.0,0.08
+7293,Romania,c2a_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Bisexual?",Don`t know,15.0,0.02
+7294,Sweden,c2a_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Bisexual?",Yes,52.0,0.06
+7295,Sweden,c2a_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Bisexual?",No,280.0,0.3
+7296,Sweden,c2a_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Bisexual?",Don`t know,41.0,0.04
+7297,Slovakia,c2a_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Bisexual?",Yes,29.0,0.03
+7298,Slovakia,c2a_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Bisexual?",No,67.0,0.07
+7299,Slovakia,c2a_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Bisexual?",Don`t know,21.0,0.02
+7300,United_Kingdom,c2a_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Bisexual?",Yes,195.0,0.21
+7301,United_Kingdom,c2a_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Bisexual?",No,569.0,0.61
+7302,United_Kingdom,c2a_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Bisexual?",Don`t know,49.0,0.05
+7303,Austria,c2a_d,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Transgender?",Yes,67.0,0.07
+7304,Austria,c2a_d,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Transgender?",No,85.0,0.09
+7305,Austria,c2a_d,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Transgender?",Don`t know,15.0,0.02
+7306,Belgium,c2a_d,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Transgender?",Yes,79.0,0.08
+7307,Belgium,c2a_d,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Transgender?",No,69.0,0.07
+7308,Belgium,c2a_d,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Transgender?",Don`t know,16.0,0.02
+7309,Bulgaria,c2a_d,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Transgender?",Yes,24.0,0.03
+7310,Bulgaria,c2a_d,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Transgender?",No,66.0,0.07
+7311,Bulgaria,c2a_d,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Transgender?",Don`t know,16.0,0.02
+7312,Czech_Republic,c2a_d,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Transgender?",Yes,61.0,0.07
+7313,Czech_Republic,c2a_d,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Transgender?",No,94.0,0.1
+7314,Czech_Republic,c2a_d,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Transgender?",Don`t know,15.0,0.02
+7315,Germany,c2a_d,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Transgender?",Yes,718.0,0.77
+7316,Germany,c2a_d,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Transgender?",No,532.0,0.57
+7317,Germany,c2a_d,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Transgender?",Don`t know,93.0,0.1
+7318,Denmark,c2a_d,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Transgender?",Yes,63.0,0.07
+7319,Denmark,c2a_d,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Transgender?",No,67.0,0.07
+7320,Denmark,c2a_d,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Transgender?",Don`t know,13.0,0.01
+7321,Greece,c2a_d,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Transgender?",Yes,95.0,0.1
+7322,Greece,c2a_d,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Transgender?",No,153.0,0.16
+7323,Greece,c2a_d,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Transgender?",Don`t know,18.0,0.02
+7324,Spain,c2a_d,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Transgender?",Yes,120.0,0.13
+7325,Spain,c2a_d,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Transgender?",No,83.0,0.09
+7326,Spain,c2a_d,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Transgender?",Don`t know,11.0,0.01
+7327,Finland,c2a_d,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Transgender?",Yes,207.0,0.22
+7328,Finland,c2a_d,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Transgender?",No,216.0,0.23
+7329,Finland,c2a_d,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Transgender?",Don`t know,58.0,0.06
+7330,France,c2a_d,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Transgender?",Yes,209.0,0.22
+7331,France,c2a_d,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Transgender?",No,196.0,0.21
+7332,France,c2a_d,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Transgender?",Don`t know,30.0,0.03
+7333,Croatia,c2a_d,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Transgender?",Yes,39.0,0.04
+7334,Croatia,c2a_d,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Transgender?",No,57.0,0.06
+7335,Croatia,c2a_d,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Transgender?",Don`t know,13.0,0.01
+7336,Hungary,c2a_d,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Transgender?",Yes,62.0,0.07
+7337,Hungary,c2a_d,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Transgender?",No,64.0,0.07
+7338,Hungary,c2a_d,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Transgender?",Don`t know,7.0,0.01
+7339,Ireland,c2a_d,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Transgender?",Yes,78.0,0.08
+7340,Ireland,c2a_d,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Transgender?",No,53.0,0.06
+7341,Ireland,c2a_d,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Transgender?",Don`t know,7.0,0.01
+7342,Italy,c2a_d,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Transgender?",Yes,306.0,0.33
+7343,Italy,c2a_d,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Transgender?",No,299.0,0.32
+7344,Italy,c2a_d,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Transgender?",Don`t know,46.0,0.05
+7345,Lithuania,c2a_d,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Transgender?",Yes,22.0,0.02
+7346,Lithuania,c2a_d,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Transgender?",No,14.0,0.02
+7347,Lithuania,c2a_d,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Transgender?",Don`t know,4.0,0.0
+7348,Luxembourg,c2a_d,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Transgender?",Yes,14.0,0.02
+7349,Luxembourg,c2a_d,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Transgender?",No,22.0,0.02
+7350,Luxembourg,c2a_d,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Transgender?",Don`t know,2.0,0.0
+7351,Latvia,c2a_d,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Transgender?",Yes,19.0,0.02
+7352,Latvia,c2a_d,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Transgender?",No,23.0,0.02
+7353,Latvia,c2a_d,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Transgender?",Don`t know,4.0,0.0
+7354,Netherlands,c2a_d,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Transgender?",Yes,105.0,0.11
+7355,Netherlands,c2a_d,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Transgender?",No,131.0,0.14
+7356,Netherlands,c2a_d,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Transgender?",Don`t know,15.0,0.02
+7357,Poland,c2a_d,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Transgender?",Yes,122.0,0.13
+7358,Poland,c2a_d,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Transgender?",No,104.0,0.11
+7359,Poland,c2a_d,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Transgender?",Don`t know,31.0,0.03
+7360,Portugal,c2a_d,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Transgender?",Yes,48.0,0.05
+7361,Portugal,c2a_d,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Transgender?",No,35.0,0.04
+7362,Portugal,c2a_d,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Transgender?",Don`t know,3.0,0.0
+7363,Romania,c2a_d,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Transgender?",Yes,47.0,0.05
+7364,Romania,c2a_d,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Transgender?",No,79.0,0.08
+7365,Romania,c2a_d,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Transgender?",Don`t know,21.0,0.02
+7366,Sweden,c2a_d,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Transgender?",Yes,172.0,0.18
+7367,Sweden,c2a_d,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Transgender?",No,180.0,0.19
+7368,Sweden,c2a_d,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Transgender?",Don`t know,22.0,0.02
+7369,Slovakia,c2a_d,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Transgender?",Yes,44.0,0.05
+7370,Slovakia,c2a_d,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Transgender?",No,53.0,0.06
+7371,Slovakia,c2a_d,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Transgender?",Don`t know,18.0,0.02
+7372,United_Kingdom,c2a_d,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Transgender?",Yes,504.0,0.54
+7373,United_Kingdom,c2a_d,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Transgender?",No,276.0,0.3
+7374,United_Kingdom,c2a_d,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Transgender?",Don`t know,33.0,0.04
+7459,Austria,c2_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed on the grounds of sexual orientation?",Yes,1236.0,1.33
+7460,Austria,c2_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed on the grounds of sexual orientation?",No,1260.0,1.35
+7461,Austria,c2_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed on the grounds of sexual orientation?",Don`t know,51.0,0.05
+7462,Belgium,c2_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed on the grounds of sexual orientation?",Yes,1025.0,1.1
+7463,Belgium,c2_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed on the grounds of sexual orientation?",No,1840.0,1.98
+7464,Belgium,c2_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed on the grounds of sexual orientation?",Don`t know,61.0,0.07
+7465,Bulgaria,c2_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed on the grounds of sexual orientation?",Yes,547.0,0.59
+7466,Bulgaria,c2_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed on the grounds of sexual orientation?",No,428.0,0.46
+7467,Bulgaria,c2_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed on the grounds of sexual orientation?",Don`t know,59.0,0.06
+7468,Cyprus,c2_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed on the grounds of sexual orientation?",Yes,138.0,0.15
+7469,Cyprus,c2_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed on the grounds of sexual orientation?",No,81.0,0.09
+7470,Cyprus,c2_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed on the grounds of sexual orientation?",Don`t know,9.0,0.01
+7471,Czech_Republic,c2_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed on the grounds of sexual orientation?",Yes,885.0,0.95
+7472,Czech_Republic,c2_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed on the grounds of sexual orientation?",No,1517.0,1.63
+7473,Czech_Republic,c2_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed on the grounds of sexual orientation?",Don`t know,64.0,0.07
+7474,Germany,c2_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed on the grounds of sexual orientation?",Yes,9331.0,10.02
+7475,Germany,c2_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed on the grounds of sexual orientation?",No,10638.0,11.43
+7476,Germany,c2_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed on the grounds of sexual orientation?",Don`t know,306.0,0.33
+7477,Denmark,c2_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed on the grounds of sexual orientation?",Yes,530.0,0.57
+7478,Denmark,c2_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed on the grounds of sexual orientation?",No,1146.0,1.23
+7479,Denmark,c2_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed on the grounds of sexual orientation?",Don`t know,28.0,0.03
+7480,Estonia,c2_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed on the grounds of sexual orientation?",Yes,164.0,0.18
+7481,Estonia,c2_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed on the grounds of sexual orientation?",No,195.0,0.21
+7482,Estonia,c2_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed on the grounds of sexual orientation?",Don`t know,16.0,0.02
+7483,Greece,c2_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed on the grounds of sexual orientation?",Yes,1341.0,1.44
+7484,Greece,c2_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed on the grounds of sexual orientation?",No,1337.0,1.44
+7485,Greece,c2_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed on the grounds of sexual orientation?",Don`t know,82.0,0.09
+7486,Spain,c2_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed on the grounds of sexual orientation?",Yes,2425.0,2.61
+7487,Spain,c2_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed on the grounds of sexual orientation?",No,3873.0,4.16
+7488,Spain,c2_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed on the grounds of sexual orientation?",Don`t know,134.0,0.14
+7489,Finland,c2_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed on the grounds of sexual orientation?",Yes,1303.0,1.4
+7490,Finland,c2_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed on the grounds of sexual orientation?",No,2029.0,2.18
+7491,Finland,c2_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed on the grounds of sexual orientation?",Don`t know,105.0,0.11
+7492,France,c2_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed on the grounds of sexual orientation?",Yes,3437.0,3.69
+7493,France,c2_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed on the grounds of sexual orientation?",No,4737.0,5.09
+7494,France,c2_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed on the grounds of sexual orientation?",Don`t know,201.0,0.22
+7495,Croatia,c2_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed on the grounds of sexual orientation?",Yes,721.0,0.77
+7496,Croatia,c2_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed on the grounds of sexual orientation?",No,421.0,0.45
+7497,Croatia,c2_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed on the grounds of sexual orientation?",Don`t know,55.0,0.06
+7498,Hungary,c2_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed on the grounds of sexual orientation?",Yes,1027.0,1.1
+7499,Hungary,c2_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed on the grounds of sexual orientation?",No,1183.0,1.27
+7500,Hungary,c2_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed on the grounds of sexual orientation?",Don`t know,55.0,0.06
+7501,Ireland,c2_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed on the grounds of sexual orientation?",Yes,764.0,0.82
+7502,Ireland,c2_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed on the grounds of sexual orientation?",No,836.0,0.9
+7503,Ireland,c2_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed on the grounds of sexual orientation?",Don`t know,29.0,0.03
+7504,Italy,c2_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed on the grounds of sexual orientation?",Yes,7186.0,7.72
+7505,Italy,c2_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed on the grounds of sexual orientation?",No,5645.0,6.06
+7506,Italy,c2_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed on the grounds of sexual orientation?",Don`t know,416.0,0.45
+7507,Lithuania,c2_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed on the grounds of sexual orientation?",Yes,498.0,0.54
+7508,Lithuania,c2_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed on the grounds of sexual orientation?",No,287.0,0.31
+7509,Lithuania,c2_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed on the grounds of sexual orientation?",Don`t know,38.0,0.04
+7510,Luxembourg,c2_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed on the grounds of sexual orientation?",Yes,99.0,0.11
+7511,Luxembourg,c2_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed on the grounds of sexual orientation?",No,193.0,0.21
+7512,Luxembourg,c2_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed on the grounds of sexual orientation?",Don`t know,11.0,0.01
+7513,Latvia,c2_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed on the grounds of sexual orientation?",Yes,239.0,0.26
+7514,Latvia,c2_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed on the grounds of sexual orientation?",No,248.0,0.27
+7515,Latvia,c2_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed on the grounds of sexual orientation?",Don`t know,14.0,0.02
+7516,Malta,c2_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed on the grounds of sexual orientation?",Yes,165.0,0.18
+7517,Malta,c2_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed on the grounds of sexual orientation?",No,145.0,0.16
+7518,Malta,c2_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed on the grounds of sexual orientation?",Don`t know,10.0,0.01
+7519,Netherlands,c2_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed on the grounds of sexual orientation?",Yes,963.0,1.03
+7520,Netherlands,c2_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed on the grounds of sexual orientation?",No,2164.0,2.32
+7521,Netherlands,c2_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed on the grounds of sexual orientation?",Don`t know,47.0,0.05
+7522,Poland,c2_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed on the grounds of sexual orientation?",Yes,1589.0,1.71
+7523,Poland,c2_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed on the grounds of sexual orientation?",No,1102.0,1.18
+7524,Poland,c2_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed on the grounds of sexual orientation?",Don`t know,97.0,0.1
+7525,Portugal,c2_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed on the grounds of sexual orientation?",Yes,1090.0,1.17
+7526,Portugal,c2_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed on the grounds of sexual orientation?",No,983.0,1.06
+7527,Portugal,c2_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed on the grounds of sexual orientation?",Don`t know,50.0,0.05
+7528,Romania,c2_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed on the grounds of sexual orientation?",Yes,682.0,0.73
+7529,Romania,c2_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed on the grounds of sexual orientation?",No,505.0,0.54
+7530,Romania,c2_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed on the grounds of sexual orientation?",Don`t know,70.0,0.08
+7531,Sweden,c2_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed on the grounds of sexual orientation?",Yes,867.0,0.93
+7532,Sweden,c2_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed on the grounds of sexual orientation?",No,1545.0,1.66
+7533,Sweden,c2_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed on the grounds of sexual orientation?",Don`t know,54.0,0.06
+7534,Slovenia,c2_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed on the grounds of sexual orientation?",Yes,338.0,0.36
+7535,Slovenia,c2_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed on the grounds of sexual orientation?",No,284.0,0.31
+7536,Slovenia,c2_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed on the grounds of sexual orientation?",Don`t know,14.0,0.02
+7537,Slovakia,c2_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed on the grounds of sexual orientation?",Yes,520.0,0.56
+7538,Slovakia,c2_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed on the grounds of sexual orientation?",No,447.0,0.48
+7539,Slovakia,c2_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed on the grounds of sexual orientation?",Don`t know,33.0,0.04
+7540,United_Kingdom,c2_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed on the grounds of sexual orientation?",Yes,2985.0,3.21
+7541,United_Kingdom,c2_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed on the grounds of sexual orientation?",No,3683.0,3.96
+7542,United_Kingdom,c2_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed on the grounds of sexual orientation?",Don`t know,84.0,0.09

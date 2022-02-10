@@ -1,0 +1,5 @@
+,question_code,question_label,answer,SUM(response),percent_all
+411,f1_a,"In the last 5 years, have you been: physically/sexually attacked or threatened with violence at home or elsewhere (street, on public transport, at your workplace, etc) for any reason?",Yes,22717.0,24.41
+412,f1_a,"In the last 5 years, have you been: physically/sexually attacked or threatened with violence at home or elsewhere (street, on public transport, at your workplace, etc) for any reason?",No,70273.0,75.5
+413,f1_b,"In the last 5 years, have you been: personally harassed by someone or a group for any reason in a way that really annoyed, offended or upset you - either at work, home, on the street, on public transport, in a shop, in an office or on the internet ?",Yes,42762.0,45.94
+414,f1_b,"In the last 5 years, have you been: personally harassed by someone or a group for any reason in a way that really annoyed, offended or upset you - either at work, home, on the street, on public transport, in a shop, in an office or on the internet ?",No,50231.0,53.97

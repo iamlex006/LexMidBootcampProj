@@ -1,0 +1,925 @@
+,CountryCode,question_code,question_label,answer,SUM(response),percent_all
+7543,Austria,c4_a,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a job? *",Yes,378.0,0.41
+7544,Austria,c4_a,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a job? *",No,2017.0,2.17
+7545,Austria,c4_a,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a job? *",Don`t know,160.0,0.17
+7546,Belgium,c4_a,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a job? *",Yes,305.0,0.33
+7547,Belgium,c4_a,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a job? *",No,2449.0,2.63
+7548,Belgium,c4_a,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a job? *",Don`t know,147.0,0.16
+7549,Bulgaria,c4_a,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a job? *",Yes,166.0,0.18
+7550,Bulgaria,c4_a,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a job? *",No,732.0,0.79
+7551,Bulgaria,c4_a,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a job? *",Don`t know,130.0,0.14
+7552,Cyprus,c4_a,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a job? *",Yes,34.0,0.04
+7553,Cyprus,c4_a,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a job? *",No,115.0,0.12
+7554,Cyprus,c4_a,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a job? *",Don`t know,15.0,0.02
+7555,Czech_Republic,c4_a,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a job? *",Yes,236.0,0.25
+7556,Czech_Republic,c4_a,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a job? *",No,2099.0,2.26
+7557,Czech_Republic,c4_a,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a job? *",Don`t know,134.0,0.14
+7558,Germany,c4_a,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a job? *",Yes,2790.0,3.0
+7559,Germany,c4_a,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a job? *",No,16538.0,17.77
+7560,Germany,c4_a,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a job? *",Don`t know,924.0,0.99
+7561,Denmark,c4_a,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a job? *",Yes,105.0,0.11
+7562,Denmark,c4_a,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a job? *",No,1534.0,1.65
+7563,Denmark,c4_a,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a job? *",Don`t know,72.0,0.08
+7564,Estonia,c4_a,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a job? *",Yes,40.0,0.04
+7565,Estonia,c4_a,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a job? *",No,273.0,0.29
+7566,Estonia,c4_a,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a job? *",Don`t know,16.0,0.02
+7567,Greece,c4_a,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a job? *",Yes,437.0,0.47
+7568,Greece,c4_a,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a job? *",No,2076.0,2.23
+7569,Greece,c4_a,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a job? *",Don`t know,243.0,0.26
+7570,Spain,c4_a,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a job? *",Yes,708.0,0.76
+7571,Spain,c4_a,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a job? *",No,5335.0,5.73
+7572,Spain,c4_a,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a job? *",Don`t know,356.0,0.38
+7573,Finland,c4_a,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a job? *",Yes,243.0,0.26
+7574,Finland,c4_a,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a job? *",No,2951.0,3.17
+7575,Finland,c4_a,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a job? *",Don`t know,241.0,0.26
+7576,France,c4_a,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a job? *",Yes,983.0,1.06
+7577,France,c4_a,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a job? *",No,6908.0,7.42
+7578,France,c4_a,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a job? *",Don`t know,431.0,0.46
+7579,Croatia,c4_a,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a job? *",Yes,177.0,0.19
+7580,Croatia,c4_a,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a job? *",No,892.0,0.96
+7581,Croatia,c4_a,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a job? *",Don`t know,137.0,0.15
+7582,Hungary,c4_a,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a job? *",Yes,345.0,0.37
+7583,Hungary,c4_a,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a job? *",No,1738.0,1.87
+7584,Hungary,c4_a,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a job? *",Don`t know,191.0,0.21
+7585,Ireland,c4_a,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a job? *",Yes,177.0,0.19
+7586,Ireland,c4_a,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a job? *",No,1361.0,1.46
+7587,Ireland,c4_a,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a job? *",Don`t know,83.0,0.09
+7588,Italy,c4_a,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a job? *",Yes,1644.0,1.77
+7589,Italy,c4_a,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a job? *",No,10748.0,11.55
+7590,Italy,c4_a,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a job? *",Don`t know,862.0,0.93
+7591,Lithuania,c4_a,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a job? *",Yes,137.0,0.15
+7592,Lithuania,c4_a,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a job? *",No,594.0,0.64
+7593,Lithuania,c4_a,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a job? *",Don`t know,88.0,0.09
+7594,Luxembourg,c4_a,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a job? *",Yes,34.0,0.04
+7595,Luxembourg,c4_a,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a job? *",No,138.0,0.15
+7596,Luxembourg,c4_a,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a job? *",Don`t know,15.0,0.02
+7597,Latvia,c4_a,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a job? *",Yes,65.0,0.07
+7598,Latvia,c4_a,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a job? *",No,343.0,0.37
+7599,Latvia,c4_a,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a job? *",Don`t know,27.0,0.03
+7600,Malta,c4_a,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a job? *",Yes,30.0,0.03
+7601,Malta,c4_a,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a job? *",No,277.0,0.3
+7602,Malta,c4_a,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a job? *",Don`t know,13.0,0.01
+7603,Netherlands,c4_a,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a job? *",Yes,411.0,0.44
+7604,Netherlands,c4_a,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a job? *",No,2651.0,2.85
+7605,Netherlands,c4_a,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a job? *",Don`t know,116.0,0.12
+7606,Poland,c4_a,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a job? *",Yes,311.0,0.33
+7607,Poland,c4_a,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a job? *",No,2203.0,2.37
+7608,Poland,c4_a,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a job? *",Don`t know,257.0,0.28
+7609,Portugal,c4_a,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a job? *",Yes,200.0,0.21
+7610,Portugal,c4_a,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a job? *",No,1765.0,1.9
+7611,Portugal,c4_a,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a job? *",Don`t know,160.0,0.17
+7612,Romania,c4_a,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a job? *",Yes,220.0,0.24
+7613,Romania,c4_a,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a job? *",No,899.0,0.97
+7614,Romania,c4_a,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a job? *",Don`t know,142.0,0.15
+7615,Sweden,c4_a,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a job? *",Yes,198.0,0.21
+7616,Sweden,c4_a,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a job? *",No,2141.0,2.3
+7617,Sweden,c4_a,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a job? *",Don`t know,117.0,0.13
+7618,Slovenia,c4_a,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a job? *",Yes,58.0,0.06
+7619,Slovenia,c4_a,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a job? *",No,477.0,0.51
+7620,Slovenia,c4_a,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a job? *",Don`t know,37.0,0.04
+7621,Slovakia,c4_a,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a job? *",Yes,140.0,0.15
+7622,Slovakia,c4_a,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a job? *",No,780.0,0.84
+7623,Slovakia,c4_a,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a job? *",Don`t know,79.0,0.08
+7624,United_Kingdom,c4_a,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a job? *",Yes,902.0,0.97
+7625,United_Kingdom,c4_a,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a job? *",No,5541.0,5.95
+7626,United_Kingdom,c4_a,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a job? *",Don`t know,317.0,0.34
+7627,Austria,c4_b,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at work?",Yes,511.0,0.55
+7628,Austria,c4_b,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at work?",No,1936.0,2.08
+7629,Austria,c4_b,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at work?",Don`t know,102.0,0.11
+7630,Belgium,c4_b,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at work?",Yes,432.0,0.46
+7631,Belgium,c4_b,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at work?",No,2359.0,2.53
+7632,Belgium,c4_b,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at work?",Don`t know,108.0,0.12
+7633,Bulgaria,c4_b,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at work?",Yes,232.0,0.25
+7634,Bulgaria,c4_b,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at work?",No,711.0,0.76
+7635,Bulgaria,c4_b,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at work?",Don`t know,93.0,0.1
+7636,Cyprus,c4_b,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at work?",Yes,64.0,0.07
+7637,Cyprus,c4_b,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at work?",No,127.0,0.14
+7638,Cyprus,c4_b,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at work?",Don`t know,16.0,0.02
+7639,Czech_Republic,c4_b,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at work?",Yes,317.0,0.34
+7640,Czech_Republic,c4_b,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at work?",No,2052.0,2.2
+7641,Czech_Republic,c4_b,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at work?",Don`t know,99.0,0.11
+7642,Germany,c4_b,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at work?",Yes,4144.0,4.45
+7643,Germany,c4_b,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at work?",No,15487.0,16.64
+7644,Germany,c4_b,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at work?",Don`t know,778.0,0.84
+7645,Denmark,c4_b,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at work?",Yes,199.0,0.21
+7646,Denmark,c4_b,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at work?",No,1471.0,1.58
+7647,Denmark,c4_b,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at work?",Don`t know,43.0,0.05
+7648,Estonia,c4_b,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at work?",Yes,81.0,0.09
+7649,Estonia,c4_b,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at work?",No,248.0,0.27
+7650,Estonia,c4_b,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at work?",Don`t know,26.0,0.03
+7651,Greece,c4_b,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at work?",Yes,523.0,0.56
+7652,Greece,c4_b,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at work?",No,2009.0,2.16
+7653,Greece,c4_b,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at work?",Don`t know,229.0,0.25
+7654,Spain,c4_b,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at work?",Yes,994.0,1.07
+7655,Spain,c4_b,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at work?",No,5104.0,5.48
+7656,Spain,c4_b,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at work?",Don`t know,290.0,0.31
+7657,Finland,c4_b,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at work?",Yes,492.0,0.53
+7658,Finland,c4_b,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at work?",No,2774.0,2.98
+7659,Finland,c4_b,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at work?",Don`t know,181.0,0.19
+7660,France,c4_b,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at work?",Yes,1670.0,1.79
+7661,France,c4_b,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at work?",No,6277.0,6.74
+7662,France,c4_b,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at work?",Don`t know,371.0,0.4
+7663,Croatia,c4_b,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at work?",Yes,278.0,0.3
+7664,Croatia,c4_b,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at work?",No,800.0,0.86
+7665,Croatia,c4_b,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at work?",Don`t know,118.0,0.13
+7666,Hungary,c4_b,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at work?",Yes,372.0,0.4
+7667,Hungary,c4_b,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at work?",No,1735.0,1.86
+7668,Hungary,c4_b,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at work?",Don`t know,157.0,0.17
+7669,Ireland,c4_b,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at work?",Yes,289.0,0.31
+7670,Ireland,c4_b,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at work?",No,1289.0,1.38
+7671,Ireland,c4_b,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at work?",Don`t know,48.0,0.05
+7672,Italy,c4_b,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at work?",Yes,2562.0,2.75
+7673,Italy,c4_b,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at work?",No,9890.0,10.63
+7674,Italy,c4_b,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at work?",Don`t know,798.0,0.86
+7675,Lithuania,c4_b,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at work?",Yes,214.0,0.23
+7676,Lithuania,c4_b,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at work?",No,537.0,0.58
+7677,Lithuania,c4_b,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at work?",Don`t know,70.0,0.08
+7678,Luxembourg,c4_b,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at work?",Yes,54.0,0.06
+7679,Luxembourg,c4_b,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at work?",No,225.0,0.24
+7680,Luxembourg,c4_b,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at work?",Don`t know,24.0,0.03
+7681,Latvia,c4_b,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at work?",Yes,123.0,0.13
+7682,Latvia,c4_b,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at work?",No,318.0,0.34
+7683,Latvia,c4_b,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at work?",Don`t know,37.0,0.04
+7684,Malta,c4_b,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at work?",Yes,68.0,0.07
+7685,Malta,c4_b,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at work?",No,250.0,0.27
+7686,Malta,c4_b,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at work?",Don`t know,4.0,0.0
+7687,Netherlands,c4_b,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at work?",Yes,388.0,0.42
+7688,Netherlands,c4_b,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at work?",No,2734.0,2.94
+7689,Netherlands,c4_b,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at work?",Don`t know,54.0,0.06
+7690,Poland,c4_b,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at work?",Yes,635.0,0.68
+7691,Poland,c4_b,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at work?",No,1950.0,2.09
+7692,Poland,c4_b,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at work?",Don`t know,203.0,0.22
+7693,Portugal,c4_b,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at work?",Yes,392.0,0.42
+7694,Portugal,c4_b,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at work?",No,1612.0,1.73
+7695,Portugal,c4_b,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at work?",Don`t know,134.0,0.14
+7696,Romania,c4_b,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at work?",Yes,269.0,0.29
+7697,Romania,c4_b,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at work?",No,861.0,0.93
+7698,Romania,c4_b,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at work?",Don`t know,137.0,0.15
+7699,Sweden,c4_b,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at work?",Yes,403.0,0.43
+7700,Sweden,c4_b,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at work?",No,1959.0,2.1
+7701,Sweden,c4_b,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at work?",Don`t know,93.0,0.1
+7702,Slovenia,c4_b,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at work?",Yes,90.0,0.1
+7703,Slovenia,c4_b,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at work?",No,508.0,0.55
+7704,Slovenia,c4_b,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at work?",Don`t know,37.0,0.04
+7705,Slovakia,c4_b,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at work?",Yes,185.0,0.2
+7706,Slovakia,c4_b,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at work?",No,764.0,0.82
+7707,Slovakia,c4_b,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at work?",Don`t know,50.0,0.05
+7708,United_Kingdom,c4_b,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at work?",Yes,1315.0,1.41
+7709,United_Kingdom,c4_b,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at work?",No,5279.0,5.67
+7710,United_Kingdom,c4_b,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at work?",Don`t know,164.0,0.18
+7711,Austria,c4_c,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a house or apartment to rent or buy?",Yes,304.0,0.33
+7712,Austria,c4_c,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a house or apartment to rent or buy?",No,2147.0,2.31
+7713,Austria,c4_c,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a house or apartment to rent or buy?",Don`t know,96.0,0.1
+7714,Belgium,c4_c,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a house or apartment to rent or buy?",Yes,272.0,0.29
+7715,Belgium,c4_c,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a house or apartment to rent or buy?",No,2513.0,2.7
+7716,Belgium,c4_c,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a house or apartment to rent or buy?",Don`t know,120.0,0.13
+7717,Bulgaria,c4_c,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a house or apartment to rent or buy?",Yes,110.0,0.12
+7718,Bulgaria,c4_c,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a house or apartment to rent or buy?",No,841.0,0.9
+7719,Bulgaria,c4_c,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a house or apartment to rent or buy?",Don`t know,83.0,0.09
+7720,Cyprus,c4_c,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a house or apartment to rent or buy?",Yes,15.0,0.02
+7721,Cyprus,c4_c,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a house or apartment to rent or buy?",No,131.0,0.14
+7722,Cyprus,c4_c,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a house or apartment to rent or buy?",Don`t know,18.0,0.02
+7723,Czech_Republic,c4_c,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a house or apartment to rent or buy?",Yes,224.0,0.24
+7724,Czech_Republic,c4_c,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a house or apartment to rent or buy?",No,2150.0,2.31
+7725,Czech_Republic,c4_c,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a house or apartment to rent or buy?",Don`t know,96.0,0.1
+7726,Germany,c4_c,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a house or apartment to rent or buy?",Yes,3161.0,3.4
+7727,Germany,c4_c,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a house or apartment to rent or buy?",No,16503.0,17.73
+7728,Germany,c4_c,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a house or apartment to rent or buy?",Don`t know,607.0,0.65
+7729,Denmark,c4_c,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a house or apartment to rent or buy?",Yes,87.0,0.09
+7730,Denmark,c4_c,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a house or apartment to rent or buy?",No,1580.0,1.7
+7731,Denmark,c4_c,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a house or apartment to rent or buy?",Don`t know,46.0,0.05
+7732,Estonia,c4_c,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a house or apartment to rent or buy?",Yes,30.0,0.03
+7733,Estonia,c4_c,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a house or apartment to rent or buy?",No,287.0,0.31
+7734,Estonia,c4_c,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a house or apartment to rent or buy?",Don`t know,15.0,0.02
+7735,Greece,c4_c,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a house or apartment to rent or buy?",Yes,321.0,0.34
+7736,Greece,c4_c,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a house or apartment to rent or buy?",No,2232.0,2.4
+7737,Greece,c4_c,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a house or apartment to rent or buy?",Don`t know,214.0,0.23
+7738,Spain,c4_c,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a house or apartment to rent or buy?",Yes,616.0,0.66
+7739,Spain,c4_c,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a house or apartment to rent or buy?",No,5560.0,5.97
+7740,Spain,c4_c,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a house or apartment to rent or buy?",Don`t know,259.0,0.28
+7741,Finland,c4_c,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a house or apartment to rent or buy?",Yes,303.0,0.33
+7742,Finland,c4_c,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a house or apartment to rent or buy?",No,2999.0,3.22
+7743,Finland,c4_c,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a house or apartment to rent or buy?",Don`t know,138.0,0.15
+7744,France,c4_c,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a house or apartment to rent or buy?",Yes,1095.0,1.18
+7745,France,c4_c,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a house or apartment to rent or buy?",No,6920.0,7.43
+7746,France,c4_c,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a house or apartment to rent or buy?",Don`t know,364.0,0.39
+7747,Croatia,c4_c,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a house or apartment to rent or buy?",Yes,218.0,0.23
+7748,Croatia,c4_c,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a house or apartment to rent or buy?",No,893.0,0.96
+7749,Croatia,c4_c,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a house or apartment to rent or buy?",Don`t know,87.0,0.09
+7750,Hungary,c4_c,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a house or apartment to rent or buy?",Yes,177.0,0.19
+7751,Hungary,c4_c,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a house or apartment to rent or buy?",No,1938.0,2.08
+7752,Hungary,c4_c,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a house or apartment to rent or buy?",Don`t know,154.0,0.17
+7753,Ireland,c4_c,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a house or apartment to rent or buy?",Yes,185.0,0.2
+7754,Ireland,c4_c,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a house or apartment to rent or buy?",No,1403.0,1.51
+7755,Ireland,c4_c,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a house or apartment to rent or buy?",Don`t know,39.0,0.04
+7756,Italy,c4_c,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a house or apartment to rent or buy?",Yes,1783.0,1.92
+7757,Italy,c4_c,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a house or apartment to rent or buy?",No,10679.0,11.47
+7758,Italy,c4_c,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a house or apartment to rent or buy?",Don`t know,792.0,0.85
+7759,Lithuania,c4_c,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a house or apartment to rent or buy?",Yes,132.0,0.14
+7760,Lithuania,c4_c,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a house or apartment to rent or buy?",No,575.0,0.62
+7761,Lithuania,c4_c,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a house or apartment to rent or buy?",Don`t know,74.0,0.08
+7762,Luxembourg,c4_c,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a house or apartment to rent or buy?",Yes,11.0,0.01
+7763,Luxembourg,c4_c,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a house or apartment to rent or buy?",No,168.0,0.18
+7764,Luxembourg,c4_c,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a house or apartment to rent or buy?",Don`t know,7.0,0.01
+7765,Latvia,c4_c,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a house or apartment to rent or buy?",Yes,53.0,0.06
+7766,Latvia,c4_c,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a house or apartment to rent or buy?",No,348.0,0.37
+7767,Latvia,c4_c,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a house or apartment to rent or buy?",Don`t know,33.0,0.04
+7768,Malta,c4_c,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a house or apartment to rent or buy?",Yes,23.0,0.02
+7769,Malta,c4_c,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a house or apartment to rent or buy?",No,248.0,0.27
+7770,Malta,c4_c,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a house or apartment to rent or buy?",Don`t know,8.0,0.01
+7771,Netherlands,c4_c,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a house or apartment to rent or buy?",Yes,192.0,0.21
+7772,Netherlands,c4_c,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a house or apartment to rent or buy?",No,2906.0,3.12
+7773,Netherlands,c4_c,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a house or apartment to rent or buy?",Don`t know,96.0,0.1
+7774,Poland,c4_c,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a house or apartment to rent or buy?",Yes,491.0,0.53
+7775,Poland,c4_c,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a house or apartment to rent or buy?",No,2084.0,2.24
+7776,Poland,c4_c,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a house or apartment to rent or buy?",Don`t know,216.0,0.23
+7777,Portugal,c4_c,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a house or apartment to rent or buy?",Yes,206.0,0.22
+7778,Portugal,c4_c,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a house or apartment to rent or buy?",No,1814.0,1.95
+7779,Portugal,c4_c,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a house or apartment to rent or buy?",Don`t know,116.0,0.12
+7780,Romania,c4_c,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a house or apartment to rent or buy?",Yes,225.0,0.24
+7781,Romania,c4_c,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a house or apartment to rent or buy?",No,929.0,1.0
+7782,Romania,c4_c,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a house or apartment to rent or buy?",Don`t know,113.0,0.12
+7783,Sweden,c4_c,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a house or apartment to rent or buy?",Yes,139.0,0.15
+7784,Sweden,c4_c,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a house or apartment to rent or buy?",No,2240.0,2.41
+7785,Sweden,c4_c,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a house or apartment to rent or buy?",Don`t know,86.0,0.09
+7786,Slovenia,c4_c,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a house or apartment to rent or buy?",Yes,82.0,0.09
+7787,Slovenia,c4_c,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a house or apartment to rent or buy?",No,463.0,0.5
+7788,Slovenia,c4_c,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a house or apartment to rent or buy?",Don`t know,21.0,0.02
+7789,Slovakia,c4_c,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a house or apartment to rent or buy?",Yes,104.0,0.11
+7790,Slovakia,c4_c,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a house or apartment to rent or buy?",No,698.0,0.75
+7791,Slovakia,c4_c,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a house or apartment to rent or buy?",Don`t know,35.0,0.04
+7792,United_Kingdom,c4_c,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a house or apartment to rent or buy?",Yes,680.0,0.73
+7793,United_Kingdom,c4_c,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a house or apartment to rent or buy?",No,5890.0,6.33
+7794,United_Kingdom,c4_c,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when looking for a house or apartment to rent or buy?",Don`t know,193.0,0.21
+7795,Austria,c4_d,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by healthcare personnel (eg a receptionist, nurse or doctor)?",Yes,269.0,0.29
+7796,Austria,c4_d,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by healthcare personnel (eg a receptionist, nurse or doctor)?",No,2198.0,2.36
+7797,Austria,c4_d,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by healthcare personnel (eg a receptionist, nurse or doctor)?",Don`t know,73.0,0.08
+7798,Belgium,c4_d,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by healthcare personnel (eg a receptionist, nurse or doctor)?",Yes,192.0,0.21
+7799,Belgium,c4_d,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by healthcare personnel (eg a receptionist, nurse or doctor)?",No,2646.0,2.84
+7800,Belgium,c4_d,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by healthcare personnel (eg a receptionist, nurse or doctor)?",Don`t know,65.0,0.07
+7801,Bulgaria,c4_d,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by healthcare personnel (eg a receptionist, nurse or doctor)?",Yes,87.0,0.09
+7802,Bulgaria,c4_d,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by healthcare personnel (eg a receptionist, nurse or doctor)?",No,867.0,0.93
+7803,Bulgaria,c4_d,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by healthcare personnel (eg a receptionist, nurse or doctor)?",Don`t know,83.0,0.09
+7804,Cyprus,c4_d,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by healthcare personnel (eg a receptionist, nurse or doctor)?",Yes,21.0,0.02
+7805,Cyprus,c4_d,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by healthcare personnel (eg a receptionist, nurse or doctor)?",No,128.0,0.14
+7806,Cyprus,c4_d,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by healthcare personnel (eg a receptionist, nurse or doctor)?",Don`t know,15.0,0.02
+7807,Czech_Republic,c4_d,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by healthcare personnel (eg a receptionist, nurse or doctor)?",Yes,195.0,0.21
+7808,Czech_Republic,c4_d,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by healthcare personnel (eg a receptionist, nurse or doctor)?",No,2219.0,2.38
+7809,Czech_Republic,c4_d,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by healthcare personnel (eg a receptionist, nurse or doctor)?",Don`t know,70.0,0.08
+7810,Germany,c4_d,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by healthcare personnel (eg a receptionist, nurse or doctor)?",Yes,2062.0,2.22
+7811,Germany,c4_d,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by healthcare personnel (eg a receptionist, nurse or doctor)?",No,17852.0,19.18
+7812,Germany,c4_d,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by healthcare personnel (eg a receptionist, nurse or doctor)?",Don`t know,370.0,0.4
+7813,Denmark,c4_d,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by healthcare personnel (eg a receptionist, nurse or doctor)?",Yes,133.0,0.14
+7814,Denmark,c4_d,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by healthcare personnel (eg a receptionist, nurse or doctor)?",No,1536.0,1.65
+7815,Denmark,c4_d,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by healthcare personnel (eg a receptionist, nurse or doctor)?",Don`t know,50.0,0.05
+7816,Estonia,c4_d,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by healthcare personnel (eg a receptionist, nurse or doctor)?",Yes,31.0,0.03
+7817,Estonia,c4_d,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by healthcare personnel (eg a receptionist, nurse or doctor)?",No,295.0,0.32
+7818,Estonia,c4_d,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by healthcare personnel (eg a receptionist, nurse or doctor)?",Don`t know,26.0,0.03
+7819,Greece,c4_d,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by healthcare personnel (eg a receptionist, nurse or doctor)?",Yes,309.0,0.33
+7820,Greece,c4_d,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by healthcare personnel (eg a receptionist, nurse or doctor)?",No,2287.0,2.46
+7821,Greece,c4_d,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by healthcare personnel (eg a receptionist, nurse or doctor)?",Don`t know,165.0,0.18
+7822,Spain,c4_d,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by healthcare personnel (eg a receptionist, nurse or doctor)?",Yes,425.0,0.46
+7823,Spain,c4_d,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by healthcare personnel (eg a receptionist, nurse or doctor)?",No,5753.0,6.18
+7824,Spain,c4_d,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by healthcare personnel (eg a receptionist, nurse or doctor)?",Don`t know,166.0,0.18
+7825,Finland,c4_d,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by healthcare personnel (eg a receptionist, nurse or doctor)?",Yes,317.0,0.34
+7826,Finland,c4_d,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by healthcare personnel (eg a receptionist, nurse or doctor)?",No,3014.0,3.24
+7827,Finland,c4_d,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by healthcare personnel (eg a receptionist, nurse or doctor)?",Don`t know,125.0,0.13
+7828,France,c4_d,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by healthcare personnel (eg a receptionist, nurse or doctor)?",Yes,882.0,0.95
+7829,France,c4_d,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by healthcare personnel (eg a receptionist, nurse or doctor)?",No,7305.0,7.85
+7830,France,c4_d,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by healthcare personnel (eg a receptionist, nurse or doctor)?",Don`t know,241.0,0.26
+7831,Croatia,c4_d,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by healthcare personnel (eg a receptionist, nurse or doctor)?",Yes,118.0,0.13
+7832,Croatia,c4_d,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by healthcare personnel (eg a receptionist, nurse or doctor)?",No,975.0,1.05
+7833,Croatia,c4_d,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by healthcare personnel (eg a receptionist, nurse or doctor)?",Don`t know,106.0,0.11
+7834,Hungary,c4_d,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by healthcare personnel (eg a receptionist, nurse or doctor)?",Yes,230.0,0.25
+7835,Hungary,c4_d,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by healthcare personnel (eg a receptionist, nurse or doctor)?",No,1904.0,2.05
+7836,Hungary,c4_d,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by healthcare personnel (eg a receptionist, nurse or doctor)?",Don`t know,153.0,0.16
+7837,Ireland,c4_d,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by healthcare personnel (eg a receptionist, nurse or doctor)?",Yes,191.0,0.21
+7838,Ireland,c4_d,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by healthcare personnel (eg a receptionist, nurse or doctor)?",No,1404.0,1.51
+7839,Ireland,c4_d,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by healthcare personnel (eg a receptionist, nurse or doctor)?",Don`t know,39.0,0.04
+7840,Italy,c4_d,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by healthcare personnel (eg a receptionist, nurse or doctor)?",Yes,1071.0,1.15
+7841,Italy,c4_d,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by healthcare personnel (eg a receptionist, nurse or doctor)?",No,11651.0,12.52
+7842,Italy,c4_d,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by healthcare personnel (eg a receptionist, nurse or doctor)?",Don`t know,617.0,0.66
+7843,Lithuania,c4_d,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by healthcare personnel (eg a receptionist, nurse or doctor)?",Yes,115.0,0.12
+7844,Lithuania,c4_d,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by healthcare personnel (eg a receptionist, nurse or doctor)?",No,637.0,0.68
+7845,Lithuania,c4_d,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by healthcare personnel (eg a receptionist, nurse or doctor)?",Don`t know,69.0,0.07
+7846,Luxembourg,c4_d,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by healthcare personnel (eg a receptionist, nurse or doctor)?",Yes,17.0,0.02
+7847,Luxembourg,c4_d,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by healthcare personnel (eg a receptionist, nurse or doctor)?",No,272.0,0.29
+7848,Luxembourg,c4_d,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by healthcare personnel (eg a receptionist, nurse or doctor)?",Don`t know,15.0,0.02
+7849,Latvia,c4_d,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by healthcare personnel (eg a receptionist, nurse or doctor)?",Yes,48.0,0.05
+7850,Latvia,c4_d,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by healthcare personnel (eg a receptionist, nurse or doctor)?",No,400.0,0.43
+7851,Latvia,c4_d,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by healthcare personnel (eg a receptionist, nurse or doctor)?",Don`t know,32.0,0.03
+7852,Malta,c4_d,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by healthcare personnel (eg a receptionist, nurse or doctor)?",Yes,34.0,0.04
+7853,Malta,c4_d,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by healthcare personnel (eg a receptionist, nurse or doctor)?",No,279.0,0.3
+7854,Malta,c4_d,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by healthcare personnel (eg a receptionist, nurse or doctor)?",Don`t know,8.0,0.01
+7855,Netherlands,c4_d,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by healthcare personnel (eg a receptionist, nurse or doctor)?",Yes,168.0,0.18
+7856,Netherlands,c4_d,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by healthcare personnel (eg a receptionist, nurse or doctor)?",No,2978.0,3.2
+7857,Netherlands,c4_d,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by healthcare personnel (eg a receptionist, nurse or doctor)?",Don`t know,25.0,0.03
+7858,Poland,c4_d,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by healthcare personnel (eg a receptionist, nurse or doctor)?",Yes,303.0,0.33
+7859,Poland,c4_d,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by healthcare personnel (eg a receptionist, nurse or doctor)?",No,2329.0,2.5
+7860,Poland,c4_d,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by healthcare personnel (eg a receptionist, nurse or doctor)?",Don`t know,178.0,0.19
+7861,Portugal,c4_d,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by healthcare personnel (eg a receptionist, nurse or doctor)?",Yes,186.0,0.2
+7862,Portugal,c4_d,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by healthcare personnel (eg a receptionist, nurse or doctor)?",No,1816.0,1.95
+7863,Portugal,c4_d,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by healthcare personnel (eg a receptionist, nurse or doctor)?",Don`t know,111.0,0.12
+7864,Romania,c4_d,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by healthcare personnel (eg a receptionist, nurse or doctor)?",Yes,180.0,0.19
+7865,Romania,c4_d,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by healthcare personnel (eg a receptionist, nurse or doctor)?",No,945.0,1.02
+7866,Romania,c4_d,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by healthcare personnel (eg a receptionist, nurse or doctor)?",Don`t know,133.0,0.14
+7867,Sweden,c4_d,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by healthcare personnel (eg a receptionist, nurse or doctor)?",Yes,392.0,0.42
+7868,Sweden,c4_d,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by healthcare personnel (eg a receptionist, nurse or doctor)?",No,1999.0,2.15
+7869,Sweden,c4_d,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by healthcare personnel (eg a receptionist, nurse or doctor)?",Don`t know,76.0,0.08
+7870,Slovenia,c4_d,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by healthcare personnel (eg a receptionist, nurse or doctor)?",Yes,48.0,0.05
+7871,Slovenia,c4_d,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by healthcare personnel (eg a receptionist, nurse or doctor)?",No,541.0,0.58
+7872,Slovenia,c4_d,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by healthcare personnel (eg a receptionist, nurse or doctor)?",Don`t know,19.0,0.02
+7873,Slovakia,c4_d,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by healthcare personnel (eg a receptionist, nurse or doctor)?",Yes,74.0,0.08
+7874,Slovakia,c4_d,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by healthcare personnel (eg a receptionist, nurse or doctor)?",No,881.0,0.95
+7875,Slovakia,c4_d,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by healthcare personnel (eg a receptionist, nurse or doctor)?",Don`t know,47.0,0.05
+7876,United_Kingdom,c4_d,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by healthcare personnel (eg a receptionist, nurse or doctor)?",Yes,924.0,0.99
+7877,United_Kingdom,c4_d,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by healthcare personnel (eg a receptionist, nurse or doctor)?",No,5711.0,6.14
+7878,United_Kingdom,c4_d,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by healthcare personnel (eg a receptionist, nurse or doctor)?",Don`t know,118.0,0.13
+7879,Austria,c4_e,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by social service personnel?",Yes,132.0,0.14
+7880,Austria,c4_e,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by social service personnel?",No,2327.0,2.5
+7881,Austria,c4_e,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by social service personnel?",Don`t know,84.0,0.09
+7882,Belgium,c4_e,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by social service personnel?",Yes,161.0,0.17
+7883,Belgium,c4_e,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by social service personnel?",No,2680.0,2.88
+7884,Belgium,c4_e,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by social service personnel?",Don`t know,56.0,0.06
+7885,Bulgaria,c4_e,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by social service personnel?",Yes,83.0,0.09
+7886,Bulgaria,c4_e,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by social service personnel?",No,853.0,0.92
+7887,Bulgaria,c4_e,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by social service personnel?",Don`t know,90.0,0.1
+7888,Cyprus,c4_e,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by social service personnel?",Yes,23.0,0.02
+7889,Cyprus,c4_e,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by social service personnel?",No,123.0,0.13
+7890,Cyprus,c4_e,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by social service personnel?",Don`t know,18.0,0.02
+7891,Czech_Republic,c4_e,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by social service personnel?",Yes,202.0,0.22
+7892,Czech_Republic,c4_e,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by social service personnel?",No,2199.0,2.36
+7893,Czech_Republic,c4_e,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by social service personnel?",Don`t know,67.0,0.07
+7894,Germany,c4_e,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by social service personnel?",Yes,1656.0,1.78
+7895,Germany,c4_e,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by social service personnel?",No,17982.0,19.32
+7896,Germany,c4_e,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by social service personnel?",Don`t know,778.0,0.84
+7897,Denmark,c4_e,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by social service personnel?",Yes,128.0,0.14
+7898,Denmark,c4_e,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by social service personnel?",No,1556.0,1.67
+7899,Denmark,c4_e,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by social service personnel?",Don`t know,36.0,0.04
+7900,Estonia,c4_e,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by social service personnel?",Yes,10.0,0.01
+7901,Estonia,c4_e,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by social service personnel?",No,301.0,0.32
+7902,Estonia,c4_e,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by social service personnel?",Don`t know,19.0,0.02
+7903,Greece,c4_e,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by social service personnel?",Yes,232.0,0.25
+7904,Greece,c4_e,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by social service personnel?",No,2342.0,2.52
+7905,Greece,c4_e,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by social service personnel?",Don`t know,190.0,0.2
+7906,Spain,c4_e,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by social service personnel?",Yes,376.0,0.4
+7907,Spain,c4_e,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by social service personnel?",No,5843.0,6.28
+7908,Spain,c4_e,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by social service personnel?",Don`t know,213.0,0.23
+7909,Finland,c4_e,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by social service personnel?",Yes,239.0,0.26
+7910,Finland,c4_e,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by social service personnel?",No,3041.0,3.27
+7911,Finland,c4_e,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by social service personnel?",Don`t know,149.0,0.16
+7912,France,c4_e,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by social service personnel?",Yes,596.0,0.64
+7913,France,c4_e,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by social service personnel?",No,7490.0,8.05
+7914,France,c4_e,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by social service personnel?",Don`t know,299.0,0.32
+7915,Croatia,c4_e,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by social service personnel?",Yes,86.0,0.09
+7916,Croatia,c4_e,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by social service personnel?",No,975.0,1.05
+7917,Croatia,c4_e,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by social service personnel?",Don`t know,134.0,0.14
+7918,Hungary,c4_e,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by social service personnel?",Yes,144.0,0.15
+7919,Hungary,c4_e,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by social service personnel?",No,2001.0,2.15
+7920,Hungary,c4_e,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by social service personnel?",Don`t know,119.0,0.13
+7921,Ireland,c4_e,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by social service personnel?",Yes,140.0,0.15
+7922,Ireland,c4_e,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by social service personnel?",No,1434.0,1.54
+7923,Ireland,c4_e,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by social service personnel?",Don`t know,49.0,0.05
+7924,Italy,c4_e,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by social service personnel?",Yes,864.0,0.93
+7925,Italy,c4_e,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by social service personnel?",No,11839.0,12.72
+7926,Italy,c4_e,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by social service personnel?",Don`t know,643.0,0.69
+7927,Lithuania,c4_e,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by social service personnel?",Yes,67.0,0.07
+7928,Lithuania,c4_e,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by social service personnel?",No,638.0,0.69
+7929,Lithuania,c4_e,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by social service personnel?",Don`t know,81.0,0.09
+7930,Luxembourg,c4_e,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by social service personnel?",Yes,26.0,0.03
+7931,Luxembourg,c4_e,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by social service personnel?",No,161.0,0.17
+7932,Luxembourg,c4_e,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by social service personnel?",Don`t know,0.0,0.0
+7933,Latvia,c4_e,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by social service personnel?",Yes,46.0,0.05
+7934,Latvia,c4_e,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by social service personnel?",No,280.0,0.3
+7935,Latvia,c4_e,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by social service personnel?",Don`t know,24.0,0.03
+7936,Malta,c4_e,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by social service personnel?",Yes,29.0,0.03
+7937,Malta,c4_e,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by social service personnel?",No,238.0,0.26
+7938,Malta,c4_e,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by social service personnel?",Don`t know,14.0,0.02
+7939,Netherlands,c4_e,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by social service personnel?",Yes,127.0,0.14
+7940,Netherlands,c4_e,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by social service personnel?",No,3006.0,3.23
+7941,Netherlands,c4_e,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by social service personnel?",Don`t know,43.0,0.05
+7942,Poland,c4_e,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by social service personnel?",Yes,198.0,0.21
+7943,Poland,c4_e,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by social service personnel?",No,2132.0,2.29
+7944,Poland,c4_e,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by social service personnel?",Don`t know,323.0,0.35
+7945,Portugal,c4_e,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by social service personnel?",Yes,111.0,0.12
+7946,Portugal,c4_e,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by social service personnel?",No,1871.0,2.01
+7947,Portugal,c4_e,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by social service personnel?",Don`t know,128.0,0.14
+7948,Romania,c4_e,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by social service personnel?",Yes,229.0,0.25
+7949,Romania,c4_e,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by social service personnel?",No,819.0,0.88
+7950,Romania,c4_e,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by social service personnel?",Don`t know,142.0,0.15
+7951,Sweden,c4_e,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by social service personnel?",Yes,311.0,0.33
+7952,Sweden,c4_e,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by social service personnel?",No,2095.0,2.25
+7953,Sweden,c4_e,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by social service personnel?",Don`t know,60.0,0.06
+7954,Slovenia,c4_e,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by social service personnel?",Yes,37.0,0.04
+7955,Slovenia,c4_e,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by social service personnel?",No,450.0,0.48
+7956,Slovenia,c4_e,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by social service personnel?",Don`t know,16.0,0.02
+7957,Slovakia,c4_e,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by social service personnel?",Yes,64.0,0.07
+7958,Slovakia,c4_e,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by social service personnel?",No,822.0,0.88
+7959,Slovakia,c4_e,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by social service personnel?",Don`t know,53.0,0.06
+7960,United_Kingdom,c4_e,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by social service personnel?",Yes,758.0,0.81
+7961,United_Kingdom,c4_e,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by social service personnel?",No,5800.0,6.23
+7962,United_Kingdom,c4_e,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by social service personnel?",Don`t know,162.0,0.17
+7963,Austria,c4_f,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by school / university personnel?",Yes,383.0,0.41
+7964,Austria,c4_f,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by school / university personnel?",No,2080.0,2.23
+7965,Austria,c4_f,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by school / university personnel?",Don`t know,82.0,0.09
+7966,Belgium,c4_f,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by school / university personnel?",Yes,294.0,0.32
+7967,Belgium,c4_f,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by school / university personnel?",No,2523.0,2.71
+7968,Belgium,c4_f,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by school / university personnel?",Don`t know,86.0,0.09
+7969,Bulgaria,c4_f,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by school / university personnel?",Yes,242.0,0.26
+7970,Bulgaria,c4_f,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by school / university personnel?",No,709.0,0.76
+7971,Bulgaria,c4_f,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by school / university personnel?",Don`t know,82.0,0.09
+7972,Cyprus,c4_f,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by school / university personnel?",Yes,43.0,0.05
+7973,Cyprus,c4_f,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by school / university personnel?",No,112.0,0.12
+7974,Cyprus,c4_f,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by school / university personnel?",Don`t know,10.0,0.01
+7975,Czech_Republic,c4_f,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by school / university personnel?",Yes,416.0,0.45
+7976,Czech_Republic,c4_f,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by school / university personnel?",No,1983.0,2.13
+7977,Czech_Republic,c4_f,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by school / university personnel?",Don`t know,75.0,0.08
+7978,Germany,c4_f,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by school / university personnel?",Yes,3113.0,3.34
+7979,Germany,c4_f,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by school / university personnel?",No,16439.0,17.66
+7980,Germany,c4_f,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by school / university personnel?",Don`t know,574.0,0.62
+7981,Denmark,c4_f,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by school / university personnel?",Yes,172.0,0.18
+7982,Denmark,c4_f,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by school / university personnel?",No,1490.0,1.6
+7983,Denmark,c4_f,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by school / university personnel?",Don`t know,49.0,0.05
+7984,Estonia,c4_f,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by school / university personnel?",Yes,60.0,0.06
+7985,Estonia,c4_f,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by school / university personnel?",No,251.0,0.27
+7986,Estonia,c4_f,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by school / university personnel?",Don`t know,18.0,0.02
+7987,Greece,c4_f,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by school / university personnel?",Yes,689.0,0.74
+7988,Greece,c4_f,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by school / university personnel?",No,1882.0,2.02
+7989,Greece,c4_f,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by school / university personnel?",Don`t know,188.0,0.2
+7990,Spain,c4_f,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by school / university personnel?",Yes,758.0,0.81
+7991,Spain,c4_f,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by school / university personnel?",No,5435.0,5.84
+7992,Spain,c4_f,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by school / university personnel?",Don`t know,202.0,0.22
+7993,Finland,c4_f,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by school / university personnel?",Yes,441.0,0.47
+7994,Finland,c4_f,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by school / university personnel?",No,2895.0,3.11
+7995,Finland,c4_f,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by school / university personnel?",Don`t know,117.0,0.13
+7996,France,c4_f,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by school / university personnel?",Yes,1191.0,1.28
+7997,France,c4_f,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by school / university personnel?",No,6850.0,7.36
+7998,France,c4_f,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by school / university personnel?",Don`t know,319.0,0.34
+7999,Croatia,c4_f,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by school / university personnel?",Yes,281.0,0.3
+8000,Croatia,c4_f,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by school / university personnel?",No,817.0,0.88
+8001,Croatia,c4_f,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by school / university personnel?",Don`t know,94.0,0.1
+8002,Hungary,c4_f,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by school / university personnel?",Yes,526.0,0.57
+8003,Hungary,c4_f,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by school / university personnel?",No,1609.0,1.73
+8004,Hungary,c4_f,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by school / university personnel?",Don`t know,130.0,0.14
+8005,Ireland,c4_f,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by school / university personnel?",Yes,302.0,0.32
+8006,Ireland,c4_f,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by school / university personnel?",No,1276.0,1.37
+8007,Ireland,c4_f,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by school / university personnel?",Don`t know,47.0,0.05
+8008,Italy,c4_f,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by school / university personnel?",Yes,2493.0,2.68
+8009,Italy,c4_f,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by school / university personnel?",No,10051.0,10.8
+8010,Italy,c4_f,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by school / university personnel?",Don`t know,631.0,0.68
+8011,Lithuania,c4_f,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by school / university personnel?",Yes,253.0,0.27
+8012,Lithuania,c4_f,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by school / university personnel?",No,500.0,0.54
+8013,Lithuania,c4_f,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by school / university personnel?",Don`t know,66.0,0.07
+8014,Luxembourg,c4_f,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by school / university personnel?",Yes,33.0,0.04
+8015,Luxembourg,c4_f,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by school / university personnel?",No,200.0,0.21
+8016,Luxembourg,c4_f,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by school / university personnel?",Don`t know,5.0,0.01
+8017,Latvia,c4_f,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by school / university personnel?",Yes,105.0,0.11
+8018,Latvia,c4_f,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by school / university personnel?",No,343.0,0.37
+8019,Latvia,c4_f,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by school / university personnel?",Don`t know,31.0,0.03
+8020,Malta,c4_f,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by school / university personnel?",Yes,67.0,0.07
+8021,Malta,c4_f,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by school / university personnel?",No,248.0,0.27
+8022,Malta,c4_f,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by school / university personnel?",Don`t know,7.0,0.01
+8023,Netherlands,c4_f,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by school / university personnel?",Yes,222.0,0.24
+8024,Netherlands,c4_f,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by school / university personnel?",No,2892.0,3.11
+8025,Netherlands,c4_f,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by school / university personnel?",Don`t know,57.0,0.06
+8026,Poland,c4_f,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by school / university personnel?",Yes,567.0,0.61
+8027,Poland,c4_f,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by school / university personnel?",No,2087.0,2.24
+8028,Poland,c4_f,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by school / university personnel?",Don`t know,138.0,0.15
+8029,Portugal,c4_f,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by school / university personnel?",Yes,639.0,0.69
+8030,Portugal,c4_f,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by school / university personnel?",No,1380.0,1.48
+8031,Portugal,c4_f,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by school / university personnel?",Don`t know,124.0,0.13
+8032,Romania,c4_f,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by school / university personnel?",Yes,345.0,0.37
+8033,Romania,c4_f,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by school / university personnel?",No,765.0,0.82
+8034,Romania,c4_f,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by school / university personnel?",Don`t know,144.0,0.15
+8035,Sweden,c4_f,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by school / university personnel?",Yes,371.0,0.4
+8036,Sweden,c4_f,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by school / university personnel?",No,2021.0,2.17
+8037,Sweden,c4_f,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by school / university personnel?",Don`t know,83.0,0.09
+8038,Slovenia,c4_f,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by school / university personnel?",Yes,83.0,0.09
+8039,Slovenia,c4_f,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by school / university personnel?",No,498.0,0.54
+8040,Slovenia,c4_f,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by school / university personnel?",Don`t know,26.0,0.03
+8041,Slovakia,c4_f,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by school / university personnel?",Yes,224.0,0.24
+8042,Slovakia,c4_f,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by school / university personnel?",No,726.0,0.78
+8043,Slovakia,c4_f,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by school / university personnel?",Don`t know,47.0,0.05
+8044,United_Kingdom,c4_f,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by school / university personnel?",Yes,965.0,1.04
+8045,United_Kingdom,c4_f,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by school / university personnel?",No,5626.0,6.04
+8046,United_Kingdom,c4_f,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T by school / university personnel?",Don`t know,173.0,0.19
+8047,Austria,c4_g,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a cafe, restaurant, bar or nightclub?",Yes,505.0,0.54
+8048,Austria,c4_g,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a cafe, restaurant, bar or nightclub?",No,1985.0,2.13
+8049,Austria,c4_g,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a cafe, restaurant, bar or nightclub?",Don`t know,74.0,0.08
+8050,Belgium,c4_g,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a cafe, restaurant, bar or nightclub?",Yes,413.0,0.44
+8051,Belgium,c4_g,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a cafe, restaurant, bar or nightclub?",No,2429.0,2.61
+8052,Belgium,c4_g,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a cafe, restaurant, bar or nightclub?",Don`t know,57.0,0.06
+8053,Bulgaria,c4_g,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a cafe, restaurant, bar or nightclub?",Yes,297.0,0.32
+8054,Bulgaria,c4_g,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a cafe, restaurant, bar or nightclub?",No,664.0,0.71
+8055,Bulgaria,c4_g,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a cafe, restaurant, bar or nightclub?",Don`t know,71.0,0.08
+8056,Cyprus,c4_g,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a cafe, restaurant, bar or nightclub?",Yes,44.0,0.05
+8057,Cyprus,c4_g,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a cafe, restaurant, bar or nightclub?",No,168.0,0.18
+8058,Cyprus,c4_g,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a cafe, restaurant, bar or nightclub?",Don`t know,18.0,0.02
+8059,Czech_Republic,c4_g,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a cafe, restaurant, bar or nightclub?",Yes,360.0,0.39
+8060,Czech_Republic,c4_g,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a cafe, restaurant, bar or nightclub?",No,2061.0,2.21
+8061,Czech_Republic,c4_g,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a cafe, restaurant, bar or nightclub?",Don`t know,50.0,0.05
+8062,Germany,c4_g,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a cafe, restaurant, bar or nightclub?",Yes,3116.0,3.35
+8063,Germany,c4_g,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a cafe, restaurant, bar or nightclub?",No,16770.0,18.02
+8064,Germany,c4_g,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a cafe, restaurant, bar or nightclub?",Don`t know,370.0,0.4
+8065,Denmark,c4_g,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a cafe, restaurant, bar or nightclub?",Yes,224.0,0.24
+8066,Denmark,c4_g,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a cafe, restaurant, bar or nightclub?",No,1453.0,1.56
+8067,Denmark,c4_g,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a cafe, restaurant, bar or nightclub?",Don`t know,29.0,0.03
+8068,Estonia,c4_g,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a cafe, restaurant, bar or nightclub?",Yes,63.0,0.07
+8069,Estonia,c4_g,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a cafe, restaurant, bar or nightclub?",No,268.0,0.29
+8070,Estonia,c4_g,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a cafe, restaurant, bar or nightclub?",Don`t know,21.0,0.02
+8071,Greece,c4_g,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a cafe, restaurant, bar or nightclub?",Yes,586.0,0.63
+8072,Greece,c4_g,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a cafe, restaurant, bar or nightclub?",No,1994.0,2.14
+8073,Greece,c4_g,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a cafe, restaurant, bar or nightclub?",Don`t know,180.0,0.19
+8074,Spain,c4_g,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a cafe, restaurant, bar or nightclub?",Yes,924.0,0.99
+8075,Spain,c4_g,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a cafe, restaurant, bar or nightclub?",No,5296.0,5.69
+8076,Spain,c4_g,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a cafe, restaurant, bar or nightclub?",Don`t know,128.0,0.14
+8077,Finland,c4_g,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a cafe, restaurant, bar or nightclub?",Yes,546.0,0.59
+8078,Finland,c4_g,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a cafe, restaurant, bar or nightclub?",No,2773.0,2.98
+8079,Finland,c4_g,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a cafe, restaurant, bar or nightclub?",Don`t know,95.0,0.1
+8080,France,c4_g,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a cafe, restaurant, bar or nightclub?",Yes,1306.0,1.4
+8081,France,c4_g,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a cafe, restaurant, bar or nightclub?",No,6870.0,7.38
+8082,France,c4_g,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a cafe, restaurant, bar or nightclub?",Don`t know,182.0,0.2
+8083,Croatia,c4_g,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a cafe, restaurant, bar or nightclub?",Yes,375.0,0.4
+8084,Croatia,c4_g,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a cafe, restaurant, bar or nightclub?",No,725.0,0.78
+8085,Croatia,c4_g,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a cafe, restaurant, bar or nightclub?",Don`t know,98.0,0.11
+8086,Hungary,c4_g,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a cafe, restaurant, bar or nightclub?",Yes,420.0,0.45
+8087,Hungary,c4_g,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a cafe, restaurant, bar or nightclub?",No,1745.0,1.87
+8088,Hungary,c4_g,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a cafe, restaurant, bar or nightclub?",Don`t know,101.0,0.11
+8089,Ireland,c4_g,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a cafe, restaurant, bar or nightclub?",Yes,352.0,0.38
+8090,Ireland,c4_g,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a cafe, restaurant, bar or nightclub?",No,1238.0,1.33
+8091,Ireland,c4_g,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a cafe, restaurant, bar or nightclub?",Don`t know,44.0,0.05
+8092,Italy,c4_g,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a cafe, restaurant, bar or nightclub?",Yes,2823.0,3.03
+8093,Italy,c4_g,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a cafe, restaurant, bar or nightclub?",No,9913.0,10.65
+8094,Italy,c4_g,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a cafe, restaurant, bar or nightclub?",Don`t know,517.0,0.56
+8095,Lithuania,c4_g,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a cafe, restaurant, bar or nightclub?",Yes,199.0,0.21
+8096,Lithuania,c4_g,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a cafe, restaurant, bar or nightclub?",No,570.0,0.61
+8097,Lithuania,c4_g,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a cafe, restaurant, bar or nightclub?",Don`t know,50.0,0.05
+8098,Luxembourg,c4_g,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a cafe, restaurant, bar or nightclub?",Yes,45.0,0.05
+8099,Luxembourg,c4_g,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a cafe, restaurant, bar or nightclub?",No,238.0,0.26
+8100,Luxembourg,c4_g,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a cafe, restaurant, bar or nightclub?",Don`t know,18.0,0.02
+8101,Latvia,c4_g,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a cafe, restaurant, bar or nightclub?",Yes,95.0,0.1
+8102,Latvia,c4_g,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a cafe, restaurant, bar or nightclub?",No,353.0,0.38
+8103,Latvia,c4_g,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a cafe, restaurant, bar or nightclub?",Don`t know,31.0,0.03
+8104,Malta,c4_g,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a cafe, restaurant, bar or nightclub?",Yes,67.0,0.07
+8105,Malta,c4_g,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a cafe, restaurant, bar or nightclub?",No,249.0,0.27
+8106,Malta,c4_g,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a cafe, restaurant, bar or nightclub?",Don`t know,6.0,0.01
+8107,Netherlands,c4_g,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a cafe, restaurant, bar or nightclub?",Yes,370.0,0.4
+8108,Netherlands,c4_g,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a cafe, restaurant, bar or nightclub?",No,2752.0,2.96
+8109,Netherlands,c4_g,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a cafe, restaurant, bar or nightclub?",Don`t know,48.0,0.05
+8110,Poland,c4_g,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a cafe, restaurant, bar or nightclub?",Yes,576.0,0.62
+8111,Poland,c4_g,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a cafe, restaurant, bar or nightclub?",No,2088.0,2.24
+8112,Poland,c4_g,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a cafe, restaurant, bar or nightclub?",Don`t know,124.0,0.13
+8113,Portugal,c4_g,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a cafe, restaurant, bar or nightclub?",Yes,465.0,0.5
+8114,Portugal,c4_g,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a cafe, restaurant, bar or nightclub?",No,1574.0,1.69
+8115,Portugal,c4_g,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a cafe, restaurant, bar or nightclub?",Don`t know,87.0,0.09
+8116,Romania,c4_g,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a cafe, restaurant, bar or nightclub?",Yes,297.0,0.32
+8117,Romania,c4_g,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a cafe, restaurant, bar or nightclub?",No,857.0,0.92
+8118,Romania,c4_g,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a cafe, restaurant, bar or nightclub?",Don`t know,112.0,0.12
+8119,Sweden,c4_g,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a cafe, restaurant, bar or nightclub?",Yes,343.0,0.37
+8120,Sweden,c4_g,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a cafe, restaurant, bar or nightclub?",No,2059.0,2.21
+8121,Sweden,c4_g,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a cafe, restaurant, bar or nightclub?",Don`t know,62.0,0.07
+8122,Slovenia,c4_g,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a cafe, restaurant, bar or nightclub?",Yes,106.0,0.11
+8123,Slovenia,c4_g,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a cafe, restaurant, bar or nightclub?",No,508.0,0.55
+8124,Slovenia,c4_g,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a cafe, restaurant, bar or nightclub?",Don`t know,22.0,0.02
+8125,Slovakia,c4_g,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a cafe, restaurant, bar or nightclub?",Yes,200.0,0.21
+8126,Slovakia,c4_g,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a cafe, restaurant, bar or nightclub?",No,764.0,0.82
+8127,Slovakia,c4_g,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a cafe, restaurant, bar or nightclub?",Don`t know,35.0,0.04
+8128,United_Kingdom,c4_g,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a cafe, restaurant, bar or nightclub?",Yes,1200.0,1.29
+8129,United_Kingdom,c4_g,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a cafe, restaurant, bar or nightclub?",No,5497.0,5.91
+8130,United_Kingdom,c4_g,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a cafe, restaurant, bar or nightclub?",Don`t know,111.0,0.12
+8131,Austria,c4_h,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a shop?",Yes,213.0,0.23
+8132,Austria,c4_h,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a shop?",No,2261.0,2.43
+8133,Austria,c4_h,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a shop?",Don`t know,71.0,0.08
+8134,Belgium,c4_h,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a shop?",Yes,188.0,0.2
+8135,Belgium,c4_h,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a shop?",No,2651.0,2.85
+8136,Belgium,c4_h,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a shop?",Don`t know,62.0,0.07
+8137,Bulgaria,c4_h,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a shop?",Yes,114.0,0.12
+8138,Bulgaria,c4_h,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a shop?",No,851.0,0.91
+8139,Bulgaria,c4_h,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a shop?",Don`t know,70.0,0.08
+8140,Cyprus,c4_h,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a shop?",Yes,20.0,0.02
+8141,Cyprus,c4_h,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a shop?",No,188.0,0.2
+8142,Cyprus,c4_h,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a shop?",Don`t know,20.0,0.02
+8143,Czech_Republic,c4_h,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a shop?",Yes,146.0,0.16
+8144,Czech_Republic,c4_h,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a shop?",No,2277.0,2.45
+8145,Czech_Republic,c4_h,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a shop?",Don`t know,46.0,0.05
+8146,Germany,c4_h,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a shop?",Yes,1654.0,1.78
+8147,Germany,c4_h,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a shop?",No,18226.0,19.58
+8148,Germany,c4_h,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a shop?",Don`t know,384.0,0.41
+8149,Denmark,c4_h,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a shop?",Yes,84.0,0.09
+8150,Denmark,c4_h,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a shop?",No,1597.0,1.72
+8151,Denmark,c4_h,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a shop?",Don`t know,21.0,0.02
+8152,Estonia,c4_h,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a shop?",Yes,24.0,0.03
+8153,Estonia,c4_h,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a shop?",No,331.0,0.36
+8154,Estonia,c4_h,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a shop?",Don`t know,19.0,0.02
+8155,Greece,c4_h,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a shop?",Yes,271.0,0.29
+8156,Greece,c4_h,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a shop?",No,2300.0,2.47
+8157,Greece,c4_h,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a shop?",Don`t know,187.0,0.2
+8158,Spain,c4_h,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a shop?",Yes,335.0,0.36
+8159,Spain,c4_h,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a shop?",No,5907.0,6.35
+8160,Spain,c4_h,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a shop?",Don`t know,142.0,0.15
+8161,Finland,c4_h,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a shop?",Yes,151.0,0.16
+8162,Finland,c4_h,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a shop?",No,3200.0,3.44
+8163,Finland,c4_h,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a shop?",Don`t know,90.0,0.1
+8164,France,c4_h,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a shop?",Yes,699.0,0.75
+8165,France,c4_h,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a shop?",No,7447.0,8.0
+8166,France,c4_h,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a shop?",Don`t know,185.0,0.2
+8167,Croatia,c4_h,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a shop?",Yes,100.0,0.11
+8168,Croatia,c4_h,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a shop?",No,984.0,1.06
+8169,Croatia,c4_h,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a shop?",Don`t know,112.0,0.12
+8170,Hungary,c4_h,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a shop?",Yes,159.0,0.17
+8171,Hungary,c4_h,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a shop?",No,1986.0,2.13
+8172,Hungary,c4_h,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a shop?",Don`t know,119.0,0.13
+8173,Ireland,c4_h,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a shop?",Yes,127.0,0.14
+8174,Ireland,c4_h,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a shop?",No,1457.0,1.57
+8175,Ireland,c4_h,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a shop?",Don`t know,45.0,0.05
+8176,Italy,c4_h,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a shop?",Yes,1133.0,1.22
+8177,Italy,c4_h,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a shop?",No,11495.0,12.35
+8178,Italy,c4_h,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a shop?",Don`t know,604.0,0.65
+8179,Lithuania,c4_h,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a shop?",Yes,95.0,0.1
+8180,Lithuania,c4_h,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a shop?",No,665.0,0.71
+8181,Lithuania,c4_h,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a shop?",Don`t know,61.0,0.07
+8182,Luxembourg,c4_h,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a shop?",Yes,25.0,0.03
+8183,Luxembourg,c4_h,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a shop?",No,264.0,0.28
+8184,Luxembourg,c4_h,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a shop?",Don`t know,16.0,0.02
+8185,Latvia,c4_h,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a shop?",Yes,50.0,0.05
+8186,Latvia,c4_h,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a shop?",No,423.0,0.45
+8187,Latvia,c4_h,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a shop?",Don`t know,26.0,0.03
+8188,Malta,c4_h,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a shop?",Yes,28.0,0.03
+8189,Malta,c4_h,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a shop?",No,287.0,0.31
+8190,Malta,c4_h,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a shop?",Don`t know,7.0,0.01
+8191,Netherlands,c4_h,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a shop?",Yes,164.0,0.18
+8192,Netherlands,c4_h,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a shop?",No,2967.0,3.19
+8193,Netherlands,c4_h,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a shop?",Don`t know,40.0,0.04
+8194,Poland,c4_h,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a shop?",Yes,281.0,0.3
+8195,Poland,c4_h,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a shop?",No,2357.0,2.53
+8196,Poland,c4_h,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a shop?",Don`t know,171.0,0.18
+8197,Portugal,c4_h,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a shop?",Yes,194.0,0.21
+8198,Portugal,c4_h,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a shop?",No,1815.0,1.95
+8199,Portugal,c4_h,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a shop?",Don`t know,109.0,0.12
+8200,Romania,c4_h,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a shop?",Yes,151.0,0.16
+8201,Romania,c4_h,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a shop?",No,996.0,1.07
+8202,Romania,c4_h,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a shop?",Don`t know,113.0,0.12
+8203,Sweden,c4_h,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a shop?",Yes,138.0,0.15
+8204,Sweden,c4_h,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a shop?",No,2264.0,2.43
+8205,Sweden,c4_h,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a shop?",Don`t know,66.0,0.07
+8206,Slovenia,c4_h,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a shop?",Yes,45.0,0.05
+8207,Slovenia,c4_h,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a shop?",No,571.0,0.61
+8208,Slovenia,c4_h,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a shop?",Don`t know,20.0,0.02
+8209,Slovakia,c4_h,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a shop?",Yes,72.0,0.08
+8210,Slovakia,c4_h,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a shop?",No,898.0,0.96
+8211,Slovakia,c4_h,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a shop?",Don`t know,36.0,0.04
+8212,United_Kingdom,c4_h,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a shop?",Yes,609.0,0.65
+8213,United_Kingdom,c4_h,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a shop?",No,6032.0,6.48
+8214,United_Kingdom,c4_h,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a shop?",Don`t know,114.0,0.12
+8215,Austria,c4_i,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T in a bank or insurance company (by bank or company personnel)?",Yes,100.0,0.11
+8216,Austria,c4_i,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T in a bank or insurance company (by bank or company personnel)?",No,2391.0,2.57
+8217,Austria,c4_i,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T in a bank or insurance company (by bank or company personnel)?",Don`t know,71.0,0.08
+8218,Belgium,c4_i,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T in a bank or insurance company (by bank or company personnel)?",Yes,60.0,0.06
+8219,Belgium,c4_i,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T in a bank or insurance company (by bank or company personnel)?",No,2772.0,2.98
+8220,Belgium,c4_i,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T in a bank or insurance company (by bank or company personnel)?",Don`t know,69.0,0.07
+8221,Bulgaria,c4_i,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T in a bank or insurance company (by bank or company personnel)?",Yes,36.0,0.04
+8222,Bulgaria,c4_i,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T in a bank or insurance company (by bank or company personnel)?",No,927.0,1.0
+8223,Bulgaria,c4_i,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T in a bank or insurance company (by bank or company personnel)?",Don`t know,72.0,0.08
+8224,Cyprus,c4_i,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T in a bank or insurance company (by bank or company personnel)?",Yes,12.0,0.01
+8225,Cyprus,c4_i,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T in a bank or insurance company (by bank or company personnel)?",No,176.0,0.19
+8226,Cyprus,c4_i,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T in a bank or insurance company (by bank or company personnel)?",Don`t know,16.0,0.02
+8227,Czech_Republic,c4_i,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T in a bank or insurance company (by bank or company personnel)?",Yes,58.0,0.06
+8228,Czech_Republic,c4_i,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T in a bank or insurance company (by bank or company personnel)?",No,2373.0,2.55
+8229,Czech_Republic,c4_i,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T in a bank or insurance company (by bank or company personnel)?",Don`t know,38.0,0.04
+8230,Germany,c4_i,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T in a bank or insurance company (by bank or company personnel)?",Yes,863.0,0.93
+8231,Germany,c4_i,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T in a bank or insurance company (by bank or company personnel)?",No,18896.0,20.3
+8232,Germany,c4_i,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T in a bank or insurance company (by bank or company personnel)?",Don`t know,373.0,0.4
+8233,Denmark,c4_i,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T in a bank or insurance company (by bank or company personnel)?",Yes,33.0,0.04
+8234,Denmark,c4_i,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T in a bank or insurance company (by bank or company personnel)?",No,1642.0,1.76
+8235,Denmark,c4_i,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T in a bank or insurance company (by bank or company personnel)?",Don`t know,35.0,0.04
+8236,Estonia,c4_i,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T in a bank or insurance company (by bank or company personnel)?",Yes,5.0,0.01
+8237,Estonia,c4_i,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T in a bank or insurance company (by bank or company personnel)?",No,329.0,0.35
+8238,Estonia,c4_i,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T in a bank or insurance company (by bank or company personnel)?",Don`t know,21.0,0.02
+8239,Greece,c4_i,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T in a bank or insurance company (by bank or company personnel)?",Yes,110.0,0.12
+8240,Greece,c4_i,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T in a bank or insurance company (by bank or company personnel)?",No,2472.0,2.66
+8241,Greece,c4_i,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T in a bank or insurance company (by bank or company personnel)?",Don`t know,176.0,0.19
+8242,Spain,c4_i,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T in a bank or insurance company (by bank or company personnel)?",Yes,213.0,0.23
+8243,Spain,c4_i,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T in a bank or insurance company (by bank or company personnel)?",No,6027.0,6.48
+8244,Spain,c4_i,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T in a bank or insurance company (by bank or company personnel)?",Don`t know,143.0,0.15
+8245,Finland,c4_i,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T in a bank or insurance company (by bank or company personnel)?",Yes,98.0,0.11
+8246,Finland,c4_i,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T in a bank or insurance company (by bank or company personnel)?",No,3251.0,3.49
+8247,Finland,c4_i,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T in a bank or insurance company (by bank or company personnel)?",Don`t know,92.0,0.1
+8248,France,c4_i,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T in a bank or insurance company (by bank or company personnel)?",Yes,371.0,0.4
+8249,France,c4_i,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T in a bank or insurance company (by bank or company personnel)?",No,7747.0,8.32
+8250,France,c4_i,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T in a bank or insurance company (by bank or company personnel)?",Don`t know,257.0,0.28
+8251,Croatia,c4_i,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T in a bank or insurance company (by bank or company personnel)?",Yes,60.0,0.06
+8252,Croatia,c4_i,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T in a bank or insurance company (by bank or company personnel)?",No,1040.0,1.12
+8253,Croatia,c4_i,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T in a bank or insurance company (by bank or company personnel)?",Don`t know,97.0,0.1
+8254,Hungary,c4_i,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T in a bank or insurance company (by bank or company personnel)?",Yes,72.0,0.08
+8255,Hungary,c4_i,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T in a bank or insurance company (by bank or company personnel)?",No,2082.0,2.24
+8256,Hungary,c4_i,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T in a bank or insurance company (by bank or company personnel)?",Don`t know,112.0,0.12
+8257,Ireland,c4_i,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T in a bank or insurance company (by bank or company personnel)?",Yes,95.0,0.1
+8258,Ireland,c4_i,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T in a bank or insurance company (by bank or company personnel)?",No,1502.0,1.61
+8259,Ireland,c4_i,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T in a bank or insurance company (by bank or company personnel)?",Don`t know,34.0,0.04
+8260,Italy,c4_i,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T in a bank or insurance company (by bank or company personnel)?",Yes,426.0,0.46
+8261,Italy,c4_i,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T in a bank or insurance company (by bank or company personnel)?",No,12199.0,13.11
+8262,Italy,c4_i,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T in a bank or insurance company (by bank or company personnel)?",Don`t know,644.0,0.69
+8263,Lithuania,c4_i,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T in a bank or insurance company (by bank or company personnel)?",Yes,49.0,0.05
+8264,Lithuania,c4_i,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T in a bank or insurance company (by bank or company personnel)?",No,719.0,0.77
+8265,Lithuania,c4_i,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T in a bank or insurance company (by bank or company personnel)?",Don`t know,57.0,0.06
+8266,Luxembourg,c4_i,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T in a bank or insurance company (by bank or company personnel)?",Yes,21.0,0.02
+8267,Luxembourg,c4_i,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T in a bank or insurance company (by bank or company personnel)?",No,241.0,0.26
+8268,Luxembourg,c4_i,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T in a bank or insurance company (by bank or company personnel)?",Don`t know,15.0,0.02
+8269,Latvia,c4_i,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T in a bank or insurance company (by bank or company personnel)?",Yes,20.0,0.02
+8270,Latvia,c4_i,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T in a bank or insurance company (by bank or company personnel)?",No,433.0,0.47
+8271,Latvia,c4_i,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T in a bank or insurance company (by bank or company personnel)?",Don`t know,24.0,0.03
+8272,Malta,c4_i,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T in a bank or insurance company (by bank or company personnel)?",Yes,23.0,0.02
+8273,Malta,c4_i,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T in a bank or insurance company (by bank or company personnel)?",No,293.0,0.31
+8274,Malta,c4_i,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T in a bank or insurance company (by bank or company personnel)?",Don`t know,7.0,0.01
+8275,Netherlands,c4_i,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T in a bank or insurance company (by bank or company personnel)?",Yes,92.0,0.1
+8276,Netherlands,c4_i,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T in a bank or insurance company (by bank or company personnel)?",No,3031.0,3.26
+8277,Netherlands,c4_i,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T in a bank or insurance company (by bank or company personnel)?",Don`t know,45.0,0.05
+8278,Poland,c4_i,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T in a bank or insurance company (by bank or company personnel)?",Yes,106.0,0.11
+8279,Poland,c4_i,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T in a bank or insurance company (by bank or company personnel)?",No,2505.0,2.69
+8280,Poland,c4_i,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T in a bank or insurance company (by bank or company personnel)?",Don`t know,174.0,0.19
+8281,Portugal,c4_i,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T in a bank or insurance company (by bank or company personnel)?",Yes,77.0,0.08
+8282,Portugal,c4_i,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T in a bank or insurance company (by bank or company personnel)?",No,1941.0,2.09
+8283,Portugal,c4_i,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T in a bank or insurance company (by bank or company personnel)?",Don`t know,107.0,0.11
+8284,Romania,c4_i,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T in a bank or insurance company (by bank or company personnel)?",Yes,85.0,0.09
+8285,Romania,c4_i,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T in a bank or insurance company (by bank or company personnel)?",No,1057.0,1.14
+8286,Romania,c4_i,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T in a bank or insurance company (by bank or company personnel)?",Don`t know,118.0,0.13
+8287,Sweden,c4_i,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T in a bank or insurance company (by bank or company personnel)?",Yes,82.0,0.09
+8288,Sweden,c4_i,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T in a bank or insurance company (by bank or company personnel)?",No,2318.0,2.49
+8289,Sweden,c4_i,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T in a bank or insurance company (by bank or company personnel)?",Don`t know,61.0,0.07
+8290,Slovenia,c4_i,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T in a bank or insurance company (by bank or company personnel)?",Yes,15.0,0.02
+8291,Slovenia,c4_i,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T in a bank or insurance company (by bank or company personnel)?",No,603.0,0.65
+8292,Slovenia,c4_i,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T in a bank or insurance company (by bank or company personnel)?",Don`t know,18.0,0.02
+8293,Slovakia,c4_i,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T in a bank or insurance company (by bank or company personnel)?",Yes,24.0,0.03
+8294,Slovakia,c4_i,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T in a bank or insurance company (by bank or company personnel)?",No,944.0,1.01
+8295,Slovakia,c4_i,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T in a bank or insurance company (by bank or company personnel)?",Don`t know,34.0,0.04
+8296,United_Kingdom,c4_i,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T in a bank or insurance company (by bank or company personnel)?",Yes,291.0,0.31
+8297,United_Kingdom,c4_i,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T in a bank or insurance company (by bank or company personnel)?",No,6362.0,6.84
+8298,United_Kingdom,c4_i,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T in a bank or insurance company (by bank or company personnel)?",Don`t know,106.0,0.11
+8299,Austria,c4_j,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a sport or fitness club?",Yes,238.0,0.26
+8300,Austria,c4_j,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a sport or fitness club?",No,2224.0,2.39
+8301,Austria,c4_j,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a sport or fitness club?",Don`t know,83.0,0.09
+8302,Belgium,c4_j,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a sport or fitness club?",Yes,218.0,0.23
+8303,Belgium,c4_j,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a sport or fitness club?",No,2612.0,2.81
+8304,Belgium,c4_j,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a sport or fitness club?",Don`t know,71.0,0.08
+8305,Bulgaria,c4_j,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a sport or fitness club?",Yes,137.0,0.15
+8306,Bulgaria,c4_j,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a sport or fitness club?",No,828.0,0.89
+8307,Bulgaria,c4_j,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a sport or fitness club?",Don`t know,66.0,0.07
+8308,Cyprus,c4_j,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a sport or fitness club?",Yes,27.0,0.03
+8309,Cyprus,c4_j,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a sport or fitness club?",No,162.0,0.17
+8310,Cyprus,c4_j,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a sport or fitness club?",Don`t know,16.0,0.02
+8311,Czech_Republic,c4_j,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a sport or fitness club?",Yes,155.0,0.17
+8312,Czech_Republic,c4_j,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a sport or fitness club?",No,2256.0,2.42
+8313,Czech_Republic,c4_j,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a sport or fitness club?",Don`t know,59.0,0.06
+8314,Germany,c4_j,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a sport or fitness club?",Yes,2196.0,2.36
+8315,Germany,c4_j,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a sport or fitness club?",No,17526.0,18.83
+8316,Germany,c4_j,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a sport or fitness club?",Don`t know,550.0,0.59
+8317,Denmark,c4_j,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a sport or fitness club?",Yes,119.0,0.13
+8318,Denmark,c4_j,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a sport or fitness club?",No,1555.0,1.67
+8319,Denmark,c4_j,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a sport or fitness club?",Don`t know,36.0,0.04
+8320,Estonia,c4_j,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a sport or fitness club?",Yes,22.0,0.02
+8321,Estonia,c4_j,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a sport or fitness club?",No,292.0,0.31
+8322,Estonia,c4_j,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a sport or fitness club?",Don`t know,15.0,0.02
+8323,Greece,c4_j,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a sport or fitness club?",Yes,306.0,0.33
+8324,Greece,c4_j,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a sport or fitness club?",No,2249.0,2.42
+8325,Greece,c4_j,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a sport or fitness club?",Don`t know,205.0,0.22
+8326,Spain,c4_j,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a sport or fitness club?",Yes,607.0,0.65
+8327,Spain,c4_j,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a sport or fitness club?",No,5601.0,6.02
+8328,Spain,c4_j,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a sport or fitness club?",Don`t know,185.0,0.2
+8329,Finland,c4_j,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a sport or fitness club?",Yes,241.0,0.26
+8330,Finland,c4_j,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a sport or fitness club?",No,3129.0,3.36
+8331,Finland,c4_j,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a sport or fitness club?",Don`t know,81.0,0.09
+8332,France,c4_j,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a sport or fitness club?",Yes,682.0,0.73
+8333,France,c4_j,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a sport or fitness club?",No,7412.0,7.96
+8334,France,c4_j,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a sport or fitness club?",Don`t know,280.0,0.3
+8335,Croatia,c4_j,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a sport or fitness club?",Yes,118.0,0.13
+8336,Croatia,c4_j,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a sport or fitness club?",No,970.0,1.04
+8337,Croatia,c4_j,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a sport or fitness club?",Don`t know,114.0,0.12
+8338,Hungary,c4_j,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a sport or fitness club?",Yes,226.0,0.24
+8339,Hungary,c4_j,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a sport or fitness club?",No,1904.0,2.05
+8340,Hungary,c4_j,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a sport or fitness club?",Don`t know,133.0,0.14
+8341,Ireland,c4_j,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a sport or fitness club?",Yes,113.0,0.12
+8342,Ireland,c4_j,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a sport or fitness club?",No,1472.0,1.58
+8343,Ireland,c4_j,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a sport or fitness club?",Don`t know,41.0,0.04
+8344,Italy,c4_j,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a sport or fitness club?",Yes,1664.0,1.79
+8345,Italy,c4_j,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a sport or fitness club?",No,10967.0,11.78
+8346,Italy,c4_j,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a sport or fitness club?",Don`t know,601.0,0.65
+8347,Lithuania,c4_j,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a sport or fitness club?",Yes,131.0,0.14
+8348,Lithuania,c4_j,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a sport or fitness club?",No,602.0,0.65
+8349,Lithuania,c4_j,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a sport or fitness club?",Don`t know,48.0,0.05
+8350,Luxembourg,c4_j,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a sport or fitness club?",Yes,26.0,0.03
+8351,Luxembourg,c4_j,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a sport or fitness club?",No,208.0,0.22
+8352,Luxembourg,c4_j,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a sport or fitness club?",Don`t know,5.0,0.01
+8353,Latvia,c4_j,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a sport or fitness club?",Yes,33.0,0.04
+8354,Latvia,c4_j,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a sport or fitness club?",No,381.0,0.41
+8355,Latvia,c4_j,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a sport or fitness club?",Don`t know,20.0,0.02
+8356,Malta,c4_j,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a sport or fitness club?",Yes,28.0,0.03
+8357,Malta,c4_j,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a sport or fitness club?",No,244.0,0.26
+8358,Malta,c4_j,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a sport or fitness club?",Don`t know,9.0,0.01
+8359,Netherlands,c4_j,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a sport or fitness club?",Yes,188.0,0.2
+8360,Netherlands,c4_j,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a sport or fitness club?",No,2944.0,3.16
+8361,Netherlands,c4_j,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a sport or fitness club?",Don`t know,45.0,0.05
+8362,Poland,c4_j,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a sport or fitness club?",Yes,310.0,0.33
+8363,Poland,c4_j,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a sport or fitness club?",No,2321.0,2.49
+8364,Poland,c4_j,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a sport or fitness club?",Don`t know,160.0,0.17
+8365,Portugal,c4_j,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a sport or fitness club?",Yes,205.0,0.22
+8366,Portugal,c4_j,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a sport or fitness club?",No,1809.0,1.94
+8367,Portugal,c4_j,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a sport or fitness club?",Don`t know,121.0,0.13
+8368,Romania,c4_j,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a sport or fitness club?",Yes,197.0,0.21
+8369,Romania,c4_j,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a sport or fitness club?",No,960.0,1.03
+8370,Romania,c4_j,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a sport or fitness club?",Don`t know,101.0,0.11
+8371,Sweden,c4_j,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a sport or fitness club?",Yes,215.0,0.23
+8372,Sweden,c4_j,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a sport or fitness club?",No,2170.0,2.33
+8373,Sweden,c4_j,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a sport or fitness club?",Don`t know,77.0,0.08
+8374,Slovenia,c4_j,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a sport or fitness club?",Yes,44.0,0.05
+8375,Slovenia,c4_j,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a sport or fitness club?",No,553.0,0.59
+8376,Slovenia,c4_j,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a sport or fitness club?",Don`t know,9.0,0.01
+8377,Slovakia,c4_j,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a sport or fitness club?",Yes,82.0,0.09
+8378,Slovakia,c4_j,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a sport or fitness club?",No,879.0,0.94
+8379,Slovakia,c4_j,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a sport or fitness club?",Don`t know,44.0,0.05
+8380,United_Kingdom,c4_j,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a sport or fitness club?",Yes,572.0,0.61
+8381,United_Kingdom,c4_j,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a sport or fitness club?",No,6074.0,6.53
+8382,United_Kingdom,c4_j,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T at a sport or fitness club?",Don`t know,114.0,0.12
+8383,Austria,c4_k,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when showing your ID or any official document that identifies your sex?",Yes,90.0,0.1
+8384,Austria,c4_k,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when showing your ID or any official document that identifies your sex?",No,2383.0,2.56
+8385,Austria,c4_k,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when showing your ID or any official document that identifies your sex?",Don`t know,71.0,0.08
+8386,Belgium,c4_k,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when showing your ID or any official document that identifies your sex?",Yes,87.0,0.09
+8387,Belgium,c4_k,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when showing your ID or any official document that identifies your sex?",No,2748.0,2.95
+8388,Belgium,c4_k,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when showing your ID or any official document that identifies your sex?",Don`t know,60.0,0.06
+8389,Bulgaria,c4_k,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when showing your ID or any official document that identifies your sex?",Yes,62.0,0.07
+8390,Bulgaria,c4_k,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when showing your ID or any official document that identifies your sex?",No,898.0,0.96
+8391,Bulgaria,c4_k,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when showing your ID or any official document that identifies your sex?",Don`t know,74.0,0.08
+8392,Cyprus,c4_k,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when showing your ID or any official document that identifies your sex?",Yes,5.0,0.01
+8393,Cyprus,c4_k,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when showing your ID or any official document that identifies your sex?",No,183.0,0.2
+8394,Cyprus,c4_k,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when showing your ID or any official document that identifies your sex?",Don`t know,17.0,0.02
+8395,Czech_Republic,c4_k,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when showing your ID or any official document that identifies your sex?",Yes,122.0,0.13
+8396,Czech_Republic,c4_k,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when showing your ID or any official document that identifies your sex?",No,2296.0,2.47
+8397,Czech_Republic,c4_k,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when showing your ID or any official document that identifies your sex?",Don`t know,65.0,0.07
+8398,Germany,c4_k,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when showing your ID or any official document that identifies your sex?",Yes,793.0,0.85
+8399,Germany,c4_k,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when showing your ID or any official document that identifies your sex?",No,18999.0,20.41
+8400,Germany,c4_k,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when showing your ID or any official document that identifies your sex?",Don`t know,360.0,0.39
+8401,Denmark,c4_k,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when showing your ID or any official document that identifies your sex?",Yes,61.0,0.07
+8402,Denmark,c4_k,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when showing your ID or any official document that identifies your sex?",No,1610.0,1.73
+8403,Denmark,c4_k,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when showing your ID or any official document that identifies your sex?",Don`t know,37.0,0.04
+8404,Estonia,c4_k,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when showing your ID or any official document that identifies your sex?",Yes,6.0,0.01
+8405,Estonia,c4_k,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when showing your ID or any official document that identifies your sex?",No,328.0,0.35
+8406,Estonia,c4_k,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when showing your ID or any official document that identifies your sex?",Don`t know,22.0,0.02
+8407,Greece,c4_k,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when showing your ID or any official document that identifies your sex?",Yes,134.0,0.14
+8408,Greece,c4_k,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when showing your ID or any official document that identifies your sex?",No,2475.0,2.66
+8409,Greece,c4_k,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when showing your ID or any official document that identifies your sex?",Don`t know,152.0,0.16
+8410,Spain,c4_k,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when showing your ID or any official document that identifies your sex?",Yes,143.0,0.15
+8411,Spain,c4_k,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when showing your ID or any official document that identifies your sex?",No,6122.0,6.58
+8412,Spain,c4_k,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when showing your ID or any official document that identifies your sex?",Don`t know,114.0,0.12
+8413,Finland,c4_k,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when showing your ID or any official document that identifies your sex?",Yes,143.0,0.15
+8414,Finland,c4_k,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when showing your ID or any official document that identifies your sex?",No,3169.0,3.4
+8415,Finland,c4_k,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when showing your ID or any official document that identifies your sex?",Don`t know,97.0,0.1
+8416,France,c4_k,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when showing your ID or any official document that identifies your sex?",Yes,322.0,0.35
+8417,France,c4_k,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when showing your ID or any official document that identifies your sex?",No,7822.0,8.4
+8418,France,c4_k,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when showing your ID or any official document that identifies your sex?",Don`t know,222.0,0.24
+8419,Croatia,c4_k,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when showing your ID or any official document that identifies your sex?",Yes,46.0,0.05
+8420,Croatia,c4_k,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when showing your ID or any official document that identifies your sex?",No,1058.0,1.14
+8421,Croatia,c4_k,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when showing your ID or any official document that identifies your sex?",Don`t know,88.0,0.09
+8422,Hungary,c4_k,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when showing your ID or any official document that identifies your sex?",Yes,84.0,0.09
+8423,Hungary,c4_k,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when showing your ID or any official document that identifies your sex?",No,2031.0,2.18
+8424,Hungary,c4_k,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when showing your ID or any official document that identifies your sex?",Don`t know,154.0,0.17
+8425,Ireland,c4_k,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when showing your ID or any official document that identifies your sex?",Yes,85.0,0.09
+8426,Ireland,c4_k,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when showing your ID or any official document that identifies your sex?",No,1506.0,1.62
+8427,Ireland,c4_k,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when showing your ID or any official document that identifies your sex?",Don`t know,49.0,0.05
+8428,Italy,c4_k,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when showing your ID or any official document that identifies your sex?",Yes,391.0,0.42
+8429,Italy,c4_k,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when showing your ID or any official document that identifies your sex?",No,12284.0,13.2
+8430,Italy,c4_k,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when showing your ID or any official document that identifies your sex?",Don`t know,462.0,0.5
+8431,Lithuania,c4_k,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when showing your ID or any official document that identifies your sex?",Yes,58.0,0.06
+8432,Lithuania,c4_k,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when showing your ID or any official document that identifies your sex?",No,708.0,0.76
+8433,Lithuania,c4_k,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when showing your ID or any official document that identifies your sex?",Don`t know,58.0,0.06
+8434,Luxembourg,c4_k,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when showing your ID or any official document that identifies your sex?",Yes,18.0,0.02
+8435,Luxembourg,c4_k,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when showing your ID or any official document that identifies your sex?",No,243.0,0.26
+8436,Luxembourg,c4_k,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when showing your ID or any official document that identifies your sex?",Don`t know,17.0,0.02
+8437,Latvia,c4_k,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when showing your ID or any official document that identifies your sex?",Yes,23.0,0.02
+8438,Latvia,c4_k,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when showing your ID or any official document that identifies your sex?",No,435.0,0.47
+8439,Latvia,c4_k,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when showing your ID or any official document that identifies your sex?",Don`t know,23.0,0.02
+8440,Malta,c4_k,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when showing your ID or any official document that identifies your sex?",Yes,15.0,0.02
+8441,Malta,c4_k,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when showing your ID or any official document that identifies your sex?",No,305.0,0.33
+8442,Malta,c4_k,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when showing your ID or any official document that identifies your sex?",Don`t know,2.0,0.0
+8443,Netherlands,c4_k,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when showing your ID or any official document that identifies your sex?",Yes,91.0,0.1
+8444,Netherlands,c4_k,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when showing your ID or any official document that identifies your sex?",No,3054.0,3.28
+8445,Netherlands,c4_k,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when showing your ID or any official document that identifies your sex?",Don`t know,48.0,0.05
+8446,Poland,c4_k,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when showing your ID or any official document that identifies your sex?",Yes,154.0,0.17
+8447,Poland,c4_k,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when showing your ID or any official document that identifies your sex?",No,2480.0,2.66
+8448,Poland,c4_k,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when showing your ID or any official document that identifies your sex?",Don`t know,142.0,0.15
+8449,Portugal,c4_k,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when showing your ID or any official document that identifies your sex?",Yes,56.0,0.06
+8450,Portugal,c4_k,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when showing your ID or any official document that identifies your sex?",No,1976.0,2.12
+8451,Portugal,c4_k,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when showing your ID or any official document that identifies your sex?",Don`t know,88.0,0.09
+8452,Romania,c4_k,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when showing your ID or any official document that identifies your sex?",Yes,135.0,0.15
+8453,Romania,c4_k,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when showing your ID or any official document that identifies your sex?",No,986.0,1.06
+8454,Romania,c4_k,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when showing your ID or any official document that identifies your sex?",Don`t know,137.0,0.15
+8455,Sweden,c4_k,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when showing your ID or any official document that identifies your sex?",Yes,121.0,0.13
+8456,Sweden,c4_k,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when showing your ID or any official document that identifies your sex?",No,2304.0,2.48
+8457,Sweden,c4_k,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when showing your ID or any official document that identifies your sex?",Don`t know,48.0,0.05
+8458,Slovenia,c4_k,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when showing your ID or any official document that identifies your sex?",Yes,15.0,0.02
+8459,Slovenia,c4_k,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when showing your ID or any official document that identifies your sex?",No,583.0,0.63
+8460,Slovenia,c4_k,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when showing your ID or any official document that identifies your sex?",Don`t know,9.0,0.01
+8461,Slovakia,c4_k,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when showing your ID or any official document that identifies your sex?",Yes,44.0,0.05
+8462,Slovakia,c4_k,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when showing your ID or any official document that identifies your sex?",No,920.0,0.99
+8463,Slovakia,c4_k,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when showing your ID or any official document that identifies your sex?",Don`t know,35.0,0.04
+8464,United_Kingdom,c4_k,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when showing your ID or any official document that identifies your sex?",Yes,360.0,0.39
+8465,United_Kingdom,c4_k,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when showing your ID or any official document that identifies your sex?",No,6282.0,6.75
+8466,United_Kingdom,c4_k,"During the last 12 months, have you personally felt discriminated against because of being L, G, B or T when showing your ID or any official document that identifies your sex?",Don`t know,132.0,0.14

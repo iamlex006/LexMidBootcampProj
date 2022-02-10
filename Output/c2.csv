@@ -1,0 +1,16 @@
+,question_code,question_label,answer,SUM(response),percent_all
+258,c2a_a,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Lesbian?",Yes,2169.0,2.33
+259,c2a_a,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Lesbian?",No,4081.0,4.38
+260,c2a_a,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Lesbian?",Don`t know,419.0,0.45
+261,c2a_b,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Gay?",Yes,2584.0,2.78
+262,c2a_b,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Gay?",No,3658.0,3.93
+263,c2a_b,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Gay?",Don`t know,384.0,0.41
+264,c2a_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Bisexual?",Yes,1361.0,1.46
+265,c2a_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Bisexual?",No,4699.0,5.05
+266,c2a_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Bisexual?",Don`t know,582.0,0.63
+267,c2a_d,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Transgender?",Yes,3225.0,3.46
+268,c2a_d,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Transgender?",No,2951.0,3.17
+269,c2a_d,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed because of being perceived as Transgender?",Don`t know,511.0,0.55
+273,c2_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed on the grounds of sexual orientation?",Yes,42095.0,45.23
+274,c2_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed on the grounds of sexual orientation?",No,48752.0,52.38
+275,c2_c,"In the last 12 months, in the country where you live, have you personally felt discriminated against or harassed on the grounds of sexual orientation?",Don`t know,2193.0,2.36

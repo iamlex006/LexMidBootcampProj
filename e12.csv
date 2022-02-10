@@ -1,8 +1,197 @@
-,question_code,question_label,answer,SUM(response),percent_all
-394,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",Yes,48409.0,52.01
-395,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",No,23880.0,25.66
-396,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",I do not have a same-sex partner,18911.0,20.32
-397,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",Don`t know,1623.0,1.74
-398,e2,"Do you avoid certain places or locations for fear of being assaulted, threatened or harassed because you are L, G, B or T?",Yes,44908.0,48.25
-399,e2,"Do you avoid certain places or locations for fear of being assaulted, threatened or harassed because you are L, G, B or T?",No,43482.0,46.72
-400,e2,"Do you avoid certain places or locations for fear of being assaulted, threatened or harassed because you are L, G, B or T?",Don`t know,4557.0,4.9
+,CountryCode,question_code,question_label,answer,SUM(response),percent_all
+10847,Austria,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",Yes,1096.0,1.18
+10848,Austria,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",No,765.0,0.82
+10849,Austria,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",I do not have a same-sex partner,632.0,0.68
+10850,Austria,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",Don`t know,48.0,0.05
+10851,Belgium,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",Yes,1672.0,1.8
+10852,Belgium,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",No,750.0,0.81
+10853,Belgium,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",I do not have a same-sex partner,416.0,0.45
+10854,Belgium,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",Don`t know,66.0,0.07
+10855,Bulgaria,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",Yes,745.0,0.8
+10856,Bulgaria,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",No,177.0,0.19
+10857,Bulgaria,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",I do not have a same-sex partner,102.0,0.11
+10858,Bulgaria,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",Don`t know,9.0,0.01
+10859,Cyprus,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",Yes,186.0,0.2
+10860,Cyprus,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",No,17.0,0.02
+10861,Cyprus,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",I do not have a same-sex partner,23.0,0.02
+10862,Cyprus,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",Don`t know,3.0,0.0
+10863,Czech_Republic,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",Yes,1058.0,1.14
+10864,Czech_Republic,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",No,897.0,0.96
+10865,Czech_Republic,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",I do not have a same-sex partner,444.0,0.48
+10866,Czech_Republic,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",Don`t know,68.0,0.07
+10867,Germany,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",Yes,8496.0,9.13
+10868,Germany,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",No,6349.0,6.82
+10869,Germany,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",I do not have a same-sex partner,5033.0,5.41
+10870,Germany,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",Don`t know,413.0,0.44
+10871,Denmark,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",Yes,684.0,0.73
+10872,Denmark,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",No,693.0,0.74
+10873,Denmark,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",I do not have a same-sex partner,279.0,0.3
+10874,Denmark,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",Don`t know,54.0,0.06
+10875,Estonia,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",Yes,215.0,0.23
+10876,Estonia,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",No,84.0,0.09
+10877,Estonia,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",I do not have a same-sex partner,69.0,0.07
+10878,Estonia,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",Don`t know,6.0,0.01
+10879,Greece,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",Yes,1839.0,1.98
+10880,Greece,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",No,551.0,0.59
+10881,Greece,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",I do not have a same-sex partner,320.0,0.34
+10882,Greece,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",Don`t know,47.0,0.05
+10883,Spain,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",Yes,2338.0,2.51
+10884,Spain,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",No,2654.0,2.85
+10885,Spain,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",I do not have a same-sex partner,1228.0,1.32
+10886,Spain,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",Don`t know,171.0,0.18
+10887,Finland,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",Yes,1009.0,1.08
+10888,Finland,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",No,1157.0,1.24
+10889,Finland,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",I do not have a same-sex partner,1169.0,1.26
+10890,Finland,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",Don`t know,109.0,0.12
+10891,France,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",Yes,5296.0,5.69
+10892,France,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",No,1869.0,2.01
+10893,France,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",I do not have a same-sex partner,982.0,1.06
+10894,France,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",Don`t know,161.0,0.17
+10895,Croatia,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",Yes,855.0,0.92
+10896,Croatia,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",No,102.0,0.11
+10897,Croatia,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",I do not have a same-sex partner,228.0,0.24
+10898,Croatia,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",Don`t know,12.0,0.01
+10899,Hungary,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",Yes,1519.0,1.63
+10900,Hungary,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",No,277.0,0.3
+10901,Hungary,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",I do not have a same-sex partner,446.0,0.48
+10902,Hungary,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",Don`t know,19.0,0.02
+10903,Ireland,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",Yes,922.0,0.99
+10904,Ireland,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",No,288.0,0.31
+10905,Ireland,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",I do not have a same-sex partner,398.0,0.43
+10906,Ireland,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",Don`t know,6.0,0.01
+10907,Italy,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",Yes,8306.0,8.92
+10908,Italy,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",No,2477.0,2.66
+10909,Italy,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",I do not have a same-sex partner,2223.0,2.39
+10910,Italy,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",Don`t know,139.0,0.15
+10911,Lithuania,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",Yes,567.0,0.61
+10912,Lithuania,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",No,114.0,0.12
+10913,Lithuania,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",I do not have a same-sex partner,131.0,0.14
+10914,Lithuania,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",Don`t know,4.0,0.0
+10915,Luxembourg,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",Yes,134.0,0.14
+10916,Luxembourg,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",No,93.0,0.1
+10917,Luxembourg,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",I do not have a same-sex partner,70.0,0.08
+10918,Luxembourg,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",Don`t know,3.0,0.0
+10919,Latvia,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",Yes,307.0,0.33
+10920,Latvia,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",No,93.0,0.1
+10921,Latvia,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",I do not have a same-sex partner,95.0,0.1
+10922,Latvia,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",Don`t know,6.0,0.01
+10923,Malta,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",Yes,176.0,0.19
+10924,Malta,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",No,83.0,0.09
+10925,Malta,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",I do not have a same-sex partner,61.0,0.07
+10926,Malta,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",Don`t know,1.0,0.0
+10927,Netherlands,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",Yes,1422.0,1.53
+10928,Netherlands,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",No,1026.0,1.1
+10929,Netherlands,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",I do not have a same-sex partner,663.0,0.71
+10930,Netherlands,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",Don`t know,74.0,0.08
+10931,Poland,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",Yes,1883.0,2.02
+10932,Poland,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",No,307.0,0.33
+10933,Poland,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",I do not have a same-sex partner,571.0,0.61
+10934,Poland,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",Don`t know,35.0,0.04
+10935,Portugal,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",Yes,1259.0,1.35
+10936,Portugal,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",No,471.0,0.51
+10937,Portugal,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",I do not have a same-sex partner,369.0,0.4
+10938,Portugal,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",Don`t know,23.0,0.02
+10939,Romania,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",Yes,1005.0,1.08
+10940,Romania,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",No,94.0,0.1
+10941,Romania,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",I do not have a same-sex partner,143.0,0.15
+10942,Romania,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",Don`t know,20.0,0.02
+10943,Sweden,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",Yes,841.0,0.9
+10944,Sweden,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",No,770.0,0.83
+10945,Sweden,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",I do not have a same-sex partner,813.0,0.87
+10946,Sweden,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",Don`t know,42.0,0.05
+10947,Slovenia,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",Yes,369.0,0.4
+10948,Slovenia,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",No,99.0,0.11
+10949,Slovenia,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",I do not have a same-sex partner,160.0,0.17
+10950,Slovenia,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",Don`t know,8.0,0.01
+10951,Slovakia,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",Yes,660.0,0.71
+10952,Slovakia,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",No,162.0,0.17
+10953,Slovakia,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",I do not have a same-sex partner,171.0,0.18
+10954,Slovakia,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",Don`t know,8.0,0.01
+10955,United_Kingdom,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",Yes,3550.0,3.81
+10956,United_Kingdom,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",No,1461.0,1.57
+10957,United_Kingdom,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",I do not have a same-sex partner,1672.0,1.8
+10958,United_Kingdom,e1,"Do you avoid holding hands in public with a same-sex partner for fear of being assaulted, threatened of harassed?",Don`t know,68.0,0.07
+10959,Austria,e2,"Do you avoid certain places or locations for fear of being assaulted, threatened or harassed because you are L, G, B or T?",Yes,996.0,1.07
+10960,Austria,e2,"Do you avoid certain places or locations for fear of being assaulted, threatened or harassed because you are L, G, B or T?",No,1406.0,1.51
+10961,Austria,e2,"Do you avoid certain places or locations for fear of being assaulted, threatened or harassed because you are L, G, B or T?",Don`t know,140.0,0.15
+10962,Belgium,e2,"Do you avoid certain places or locations for fear of being assaulted, threatened or harassed because you are L, G, B or T?",Yes,1624.0,1.74
+10963,Belgium,e2,"Do you avoid certain places or locations for fear of being assaulted, threatened or harassed because you are L, G, B or T?",No,1163.0,1.25
+10964,Belgium,e2,"Do you avoid certain places or locations for fear of being assaulted, threatened or harassed because you are L, G, B or T?",Don`t know,135.0,0.15
+10965,Bulgaria,e2,"Do you avoid certain places or locations for fear of being assaulted, threatened or harassed because you are L, G, B or T?",Yes,609.0,0.65
+10966,Bulgaria,e2,"Do you avoid certain places or locations for fear of being assaulted, threatened or harassed because you are L, G, B or T?",No,356.0,0.38
+10967,Bulgaria,e2,"Do you avoid certain places or locations for fear of being assaulted, threatened or harassed because you are L, G, B or T?",Don`t know,65.0,0.07
+10968,Cyprus,e2,"Do you avoid certain places or locations for fear of being assaulted, threatened or harassed because you are L, G, B or T?",Yes,125.0,0.13
+10969,Cyprus,e2,"Do you avoid certain places or locations for fear of being assaulted, threatened or harassed because you are L, G, B or T?",No,94.0,0.1
+10970,Cyprus,e2,"Do you avoid certain places or locations for fear of being assaulted, threatened or harassed because you are L, G, B or T?",Don`t know,11.0,0.01
+10971,Czech_Republic,e2,"Do you avoid certain places or locations for fear of being assaulted, threatened or harassed because you are L, G, B or T?",Yes,1072.0,1.15
+10972,Czech_Republic,e2,"Do you avoid certain places or locations for fear of being assaulted, threatened or harassed because you are L, G, B or T?",No,1283.0,1.38
+10973,Czech_Republic,e2,"Do you avoid certain places or locations for fear of being assaulted, threatened or harassed because you are L, G, B or T?",Don`t know,113.0,0.12
+10974,Germany,e2,"Do you avoid certain places or locations for fear of being assaulted, threatened or harassed because you are L, G, B or T?",Yes,9527.0,10.24
+10975,Germany,e2,"Do you avoid certain places or locations for fear of being assaulted, threatened or harassed because you are L, G, B or T?",No,9769.0,10.5
+10976,Germany,e2,"Do you avoid certain places or locations for fear of being assaulted, threatened or harassed because you are L, G, B or T?",Don`t know,974.0,1.05
+10977,Denmark,e2,"Do you avoid certain places or locations for fear of being assaulted, threatened or harassed because you are L, G, B or T?",Yes,629.0,0.68
+10978,Denmark,e2,"Do you avoid certain places or locations for fear of being assaulted, threatened or harassed because you are L, G, B or T?",No,987.0,1.06
+10979,Denmark,e2,"Do you avoid certain places or locations for fear of being assaulted, threatened or harassed because you are L, G, B or T?",Don`t know,93.0,0.1
+10980,Estonia,e2,"Do you avoid certain places or locations for fear of being assaulted, threatened or harassed because you are L, G, B or T?",Yes,196.0,0.21
+10981,Estonia,e2,"Do you avoid certain places or locations for fear of being assaulted, threatened or harassed because you are L, G, B or T?",No,159.0,0.17
+10982,Estonia,e2,"Do you avoid certain places or locations for fear of being assaulted, threatened or harassed because you are L, G, B or T?",Don`t know,21.0,0.02
+10983,Greece,e2,"Do you avoid certain places or locations for fear of being assaulted, threatened or harassed because you are L, G, B or T?",Yes,1274.0,1.37
+10984,Greece,e2,"Do you avoid certain places or locations for fear of being assaulted, threatened or harassed because you are L, G, B or T?",No,1292.0,1.39
+10985,Greece,e2,"Do you avoid certain places or locations for fear of being assaulted, threatened or harassed because you are L, G, B or T?",Don`t know,215.0,0.23
+10986,Spain,e2,"Do you avoid certain places or locations for fear of being assaulted, threatened or harassed because you are L, G, B or T?",Yes,2623.0,2.82
+10987,Spain,e2,"Do you avoid certain places or locations for fear of being assaulted, threatened or harassed because you are L, G, B or T?",No,3525.0,3.79
+10988,Spain,e2,"Do you avoid certain places or locations for fear of being assaulted, threatened or harassed because you are L, G, B or T?",Don`t know,249.0,0.27
+10989,Finland,e2,"Do you avoid certain places or locations for fear of being assaulted, threatened or harassed because you are L, G, B or T?",Yes,1057.0,1.14
+10990,Finland,e2,"Do you avoid certain places or locations for fear of being assaulted, threatened or harassed because you are L, G, B or T?",No,2150.0,2.31
+10991,Finland,e2,"Do you avoid certain places or locations for fear of being assaulted, threatened or harassed because you are L, G, B or T?",Don`t know,227.0,0.24
+10992,France,e2,"Do you avoid certain places or locations for fear of being assaulted, threatened or harassed because you are L, G, B or T?",Yes,4416.0,4.74
+10993,France,e2,"Do you avoid certain places or locations for fear of being assaulted, threatened or harassed because you are L, G, B or T?",No,3610.0,3.88
+10994,France,e2,"Do you avoid certain places or locations for fear of being assaulted, threatened or harassed because you are L, G, B or T?",Don`t know,352.0,0.38
+10995,Croatia,e2,"Do you avoid certain places or locations for fear of being assaulted, threatened or harassed because you are L, G, B or T?",Yes,725.0,0.78
+10996,Croatia,e2,"Do you avoid certain places or locations for fear of being assaulted, threatened or harassed because you are L, G, B or T?",No,402.0,0.43
+10997,Croatia,e2,"Do you avoid certain places or locations for fear of being assaulted, threatened or harassed because you are L, G, B or T?",Don`t know,76.0,0.08
+10998,Hungary,e2,"Do you avoid certain places or locations for fear of being assaulted, threatened or harassed because you are L, G, B or T?",Yes,1550.0,1.67
+10999,Hungary,e2,"Do you avoid certain places or locations for fear of being assaulted, threatened or harassed because you are L, G, B or T?",No,629.0,0.68
+11000,Hungary,e2,"Do you avoid certain places or locations for fear of being assaulted, threatened or harassed because you are L, G, B or T?",Don`t know,86.0,0.09
+11001,Ireland,e2,"Do you avoid certain places or locations for fear of being assaulted, threatened or harassed because you are L, G, B or T?",Yes,863.0,0.93
+11002,Ireland,e2,"Do you avoid certain places or locations for fear of being assaulted, threatened or harassed because you are L, G, B or T?",No,697.0,0.75
+11003,Ireland,e2,"Do you avoid certain places or locations for fear of being assaulted, threatened or harassed because you are L, G, B or T?",Don`t know,66.0,0.07
+11004,Italy,e2,"Do you avoid certain places or locations for fear of being assaulted, threatened or harassed because you are L, G, B or T?",Yes,6266.0,6.73
+11005,Italy,e2,"Do you avoid certain places or locations for fear of being assaulted, threatened or harassed because you are L, G, B or T?",No,6253.0,6.72
+11006,Italy,e2,"Do you avoid certain places or locations for fear of being assaulted, threatened or harassed because you are L, G, B or T?",Don`t know,744.0,0.8
+11007,Lithuania,e2,"Do you avoid certain places or locations for fear of being assaulted, threatened or harassed because you are L, G, B or T?",Yes,551.0,0.59
+11008,Lithuania,e2,"Do you avoid certain places or locations for fear of being assaulted, threatened or harassed because you are L, G, B or T?",No,210.0,0.23
+11009,Lithuania,e2,"Do you avoid certain places or locations for fear of being assaulted, threatened or harassed because you are L, G, B or T?",Don`t know,57.0,0.06
+11010,Luxembourg,e2,"Do you avoid certain places or locations for fear of being assaulted, threatened or harassed because you are L, G, B or T?",Yes,98.0,0.11
+11011,Luxembourg,e2,"Do you avoid certain places or locations for fear of being assaulted, threatened or harassed because you are L, G, B or T?",No,180.0,0.19
+11012,Luxembourg,e2,"Do you avoid certain places or locations for fear of being assaulted, threatened or harassed because you are L, G, B or T?",Don`t know,22.0,0.02
+11013,Latvia,e2,"Do you avoid certain places or locations for fear of being assaulted, threatened or harassed because you are L, G, B or T?",Yes,269.0,0.29
+11014,Latvia,e2,"Do you avoid certain places or locations for fear of being assaulted, threatened or harassed because you are L, G, B or T?",No,200.0,0.21
+11015,Latvia,e2,"Do you avoid certain places or locations for fear of being assaulted, threatened or harassed because you are L, G, B or T?",Don`t know,31.0,0.03
+11016,Malta,e2,"Do you avoid certain places or locations for fear of being assaulted, threatened or harassed because you are L, G, B or T?",Yes,148.0,0.16
+11017,Malta,e2,"Do you avoid certain places or locations for fear of being assaulted, threatened or harassed because you are L, G, B or T?",No,167.0,0.18
+11018,Malta,e2,"Do you avoid certain places or locations for fear of being assaulted, threatened or harassed because you are L, G, B or T?",Don`t know,6.0,0.01
+11019,Netherlands,e2,"Do you avoid certain places or locations for fear of being assaulted, threatened or harassed because you are L, G, B or T?",Yes,1313.0,1.41
+11020,Netherlands,e2,"Do you avoid certain places or locations for fear of being assaulted, threatened or harassed because you are L, G, B or T?",No,1732.0,1.86
+11021,Netherlands,e2,"Do you avoid certain places or locations for fear of being assaulted, threatened or harassed because you are L, G, B or T?",Don`t know,111.0,0.12
+11022,Poland,e2,"Do you avoid certain places or locations for fear of being assaulted, threatened or harassed because you are L, G, B or T?",Yes,1716.0,1.84
+11023,Poland,e2,"Do you avoid certain places or locations for fear of being assaulted, threatened or harassed because you are L, G, B or T?",No,914.0,0.98
+11024,Poland,e2,"Do you avoid certain places or locations for fear of being assaulted, threatened or harassed because you are L, G, B or T?",Don`t know,143.0,0.15
+11025,Portugal,e2,"Do you avoid certain places or locations for fear of being assaulted, threatened or harassed because you are L, G, B or T?",Yes,968.0,1.04
+11026,Portugal,e2,"Do you avoid certain places or locations for fear of being assaulted, threatened or harassed because you are L, G, B or T?",No,1068.0,1.15
+11027,Portugal,e2,"Do you avoid certain places or locations for fear of being assaulted, threatened or harassed because you are L, G, B or T?",Don`t know,83.0,0.09
+11028,Romania,e2,"Do you avoid certain places or locations for fear of being assaulted, threatened or harassed because you are L, G, B or T?",Yes,761.0,0.82
+11029,Romania,e2,"Do you avoid certain places or locations for fear of being assaulted, threatened or harassed because you are L, G, B or T?",No,398.0,0.43
+11030,Romania,e2,"Do you avoid certain places or locations for fear of being assaulted, threatened or harassed because you are L, G, B or T?",Don`t know,100.0,0.11
+11031,Sweden,e2,"Do you avoid certain places or locations for fear of being assaulted, threatened or harassed because you are L, G, B or T?",Yes,918.0,0.99
+11032,Sweden,e2,"Do you avoid certain places or locations for fear of being assaulted, threatened or harassed because you are L, G, B or T?",No,1412.0,1.52
+11033,Sweden,e2,"Do you avoid certain places or locations for fear of being assaulted, threatened or harassed because you are L, G, B or T?",Don`t know,135.0,0.15
+11034,Slovenia,e2,"Do you avoid certain places or locations for fear of being assaulted, threatened or harassed because you are L, G, B or T?",Yes,329.0,0.35
+11035,Slovenia,e2,"Do you avoid certain places or locations for fear of being assaulted, threatened or harassed because you are L, G, B or T?",No,278.0,0.3
+11036,Slovenia,e2,"Do you avoid certain places or locations for fear of being assaulted, threatened or harassed because you are L, G, B or T?",Don`t know,25.0,0.03
+11037,Slovakia,e2,"Do you avoid certain places or locations for fear of being assaulted, threatened or harassed because you are L, G, B or T?",Yes,554.0,0.6
+11038,Slovakia,e2,"Do you avoid certain places or locations for fear of being assaulted, threatened or harassed because you are L, G, B or T?",No,389.0,0.42
+11039,Slovakia,e2,"Do you avoid certain places or locations for fear of being assaulted, threatened or harassed because you are L, G, B or T?",Don`t know,59.0,0.06
+11040,United_Kingdom,e2,"Do you avoid certain places or locations for fear of being assaulted, threatened or harassed because you are L, G, B or T?",Yes,3731.0,4.01
+11041,United_Kingdom,e2,"Do you avoid certain places or locations for fear of being assaulted, threatened or harassed because you are L, G, B or T?",No,2759.0,2.96
+11042,United_Kingdom,e2,"Do you avoid certain places or locations for fear of being assaulted, threatened or harassed because you are L, G, B or T?",Don`t know,218.0,0.23
